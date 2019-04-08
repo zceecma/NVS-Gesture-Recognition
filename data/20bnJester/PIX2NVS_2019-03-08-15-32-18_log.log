@@ -1,0 +1,9 @@
+
+ Found 1 files in the ./input directory 
+
+ processing video: 9999.mp4 ... Finished FFMPEG for vid 0 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 9999.mp4 .... 
+
+Finished GEN_EVENT for vid 0 in 0.000000 seconds

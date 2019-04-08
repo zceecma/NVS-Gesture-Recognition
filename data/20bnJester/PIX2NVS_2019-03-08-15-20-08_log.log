@@ -1,0 +1,5515 @@
+
+ Found 4999 files in the ./input directory 
+
+ processing video: 10000.mp4 ... Finished FFMPEG for vid 0 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10000.mp4 .... 
+
+Finished GEN_EVENT for vid 0 in 0.000000 seconds
+
+ processing video: 10001.mp4 ... Finished FFMPEG for vid 1 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10001.mp4 .... 
+
+Finished GEN_EVENT for vid 1 in 0.000000 seconds
+
+ processing video: 10002.mp4 ... Finished FFMPEG for vid 2 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10002.mp4 .... 
+
+Finished GEN_EVENT for vid 2 in 0.000000 seconds
+
+ processing video: 10003.mp4 ... Finished FFMPEG for vid 3 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10003.mp4 .... 
+
+Finished GEN_EVENT for vid 3 in 0.000000 seconds
+
+ processing video: 10004.mp4 ... Finished FFMPEG for vid 4 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10004.mp4 .... 
+
+Finished GEN_EVENT for vid 4 in 0.000000 seconds
+
+ processing video: 10005.mp4 ... Finished FFMPEG for vid 5 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10005.mp4 .... 
+
+Finished GEN_EVENT for vid 5 in 0.000000 seconds
+
+ processing video: 10006.mp4 ... Finished FFMPEG for vid 6 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10006.mp4 .... 
+
+Finished GEN_EVENT for vid 6 in 0.000000 seconds
+
+ processing video: 10007.mp4 ... Finished FFMPEG for vid 7 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10007.mp4 .... 
+
+Finished GEN_EVENT for vid 7 in 0.000000 seconds
+
+ processing video: 10008.mp4 ... Finished FFMPEG for vid 8 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10008.mp4 .... 
+
+Finished GEN_EVENT for vid 8 in 0.000000 seconds
+
+ processing video: 10009.mp4 ... Finished FFMPEG for vid 9 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10009.mp4 .... 
+
+Finished GEN_EVENT for vid 9 in 0.000000 seconds
+
+ processing video: 10010.mp4 ... Finished FFMPEG for vid 10 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10010.mp4 .... 
+
+Finished GEN_EVENT for vid 10 in 0.000000 seconds
+
+ processing video: 10011.mp4 ... Finished FFMPEG for vid 11 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10011.mp4 .... 
+
+Finished GEN_EVENT for vid 11 in 0.000000 seconds
+
+ processing video: 10012.mp4 ... Finished FFMPEG for vid 12 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10012.mp4 .... 
+
+Finished GEN_EVENT for vid 12 in 0.000000 seconds
+
+ processing video: 10013.mp4 ... Finished FFMPEG for vid 13 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10013.mp4 .... 
+
+Finished GEN_EVENT for vid 13 in 0.000000 seconds
+
+ processing video: 10014.mp4 ... Finished FFMPEG for vid 14 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10014.mp4 .... 
+
+Finished GEN_EVENT for vid 14 in 0.000000 seconds
+
+ processing video: 10015.mp4 ... Finished FFMPEG for vid 15 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10015.mp4 .... 
+
+Finished GEN_EVENT for vid 15 in 0.000000 seconds
+
+ processing video: 10016.mp4 ... Finished FFMPEG for vid 16 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10016.mp4 .... 
+
+Finished GEN_EVENT for vid 16 in 0.000000 seconds
+
+ processing video: 10017.mp4 ... Finished FFMPEG for vid 17 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10017.mp4 .... 
+
+Finished GEN_EVENT for vid 17 in 0.000000 seconds
+
+ processing video: 10018.mp4 ... Finished FFMPEG for vid 18 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10018.mp4 .... 
+
+Finished GEN_EVENT for vid 18 in 0.000000 seconds
+
+ processing video: 10019.mp4 ... Finished FFMPEG for vid 19 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10019.mp4 .... 
+
+Finished GEN_EVENT for vid 19 in 0.000000 seconds
+
+ processing video: 10020.mp4 ... Finished FFMPEG for vid 20 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10020.mp4 .... 
+
+Finished GEN_EVENT for vid 20 in 0.000000 seconds
+
+ processing video: 10021.mp4 ... Finished FFMPEG for vid 21 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10021.mp4 .... 
+
+Finished GEN_EVENT for vid 21 in 0.000000 seconds
+
+ processing video: 10022.mp4 ... Finished FFMPEG for vid 22 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10022.mp4 .... 
+
+Finished GEN_EVENT for vid 22 in 0.000000 seconds
+
+ processing video: 10023.mp4 ... Finished FFMPEG for vid 23 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10023.mp4 .... 
+
+Finished GEN_EVENT for vid 23 in 0.000000 seconds
+
+ processing video: 10024.mp4 ... Finished FFMPEG for vid 24 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10024.mp4 .... 
+
+Finished GEN_EVENT for vid 24 in 0.000000 seconds
+
+ processing video: 10025.mp4 ... Finished FFMPEG for vid 25 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10025.mp4 .... 
+
+Finished GEN_EVENT for vid 25 in 0.000000 seconds
+
+ processing video: 10026.mp4 ... Finished FFMPEG for vid 26 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10026.mp4 .... 
+
+Finished GEN_EVENT for vid 26 in 0.000000 seconds
+
+ processing video: 10027.mp4 ... Finished FFMPEG for vid 27 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10027.mp4 .... 
+
+Finished GEN_EVENT for vid 27 in 0.000000 seconds
+
+ processing video: 10028.mp4 ... Finished FFMPEG for vid 28 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10028.mp4 .... 
+
+Finished GEN_EVENT for vid 28 in 0.000000 seconds
+
+ processing video: 10029.mp4 ... Finished FFMPEG for vid 29 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10029.mp4 .... 
+
+Finished GEN_EVENT for vid 29 in 0.000000 seconds
+
+ processing video: 10030.mp4 ... Finished FFMPEG for vid 30 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10030.mp4 .... 
+
+Finished GEN_EVENT for vid 30 in 0.000000 seconds
+
+ processing video: 10031.mp4 ... Finished FFMPEG for vid 31 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10031.mp4 .... 
+
+Finished GEN_EVENT for vid 31 in 0.000000 seconds
+
+ processing video: 10032.mp4 ... Finished FFMPEG for vid 32 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10032.mp4 .... 
+
+Finished GEN_EVENT for vid 32 in 0.000000 seconds
+
+ processing video: 10033.mp4 ... Finished FFMPEG for vid 33 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10033.mp4 .... 
+
+Finished GEN_EVENT for vid 33 in 0.000000 seconds
+
+ processing video: 10034.mp4 ... Finished FFMPEG for vid 34 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10034.mp4 .... 
+
+Finished GEN_EVENT for vid 34 in 0.000000 seconds
+
+ processing video: 10035.mp4 ... Finished FFMPEG for vid 35 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10035.mp4 .... 
+
+Finished GEN_EVENT for vid 35 in 0.000000 seconds
+
+ processing video: 10036.mp4 ... Finished FFMPEG for vid 36 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10036.mp4 .... 
+
+Finished GEN_EVENT for vid 36 in 0.000000 seconds
+
+ processing video: 10037.mp4 ... Finished FFMPEG for vid 37 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10037.mp4 .... 
+
+Finished GEN_EVENT for vid 37 in 0.000000 seconds
+
+ processing video: 10038.mp4 ... Finished FFMPEG for vid 38 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10038.mp4 .... 
+
+Finished GEN_EVENT for vid 38 in 0.000000 seconds
+
+ processing video: 10039.mp4 ... Finished FFMPEG for vid 39 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10039.mp4 .... 
+
+Finished GEN_EVENT for vid 39 in 0.000000 seconds
+
+ processing video: 10040.mp4 ... Finished FFMPEG for vid 40 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10040.mp4 .... 
+
+Finished GEN_EVENT for vid 40 in 0.000000 seconds
+
+ processing video: 10041.mp4 ... Finished FFMPEG for vid 41 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10041.mp4 .... 
+
+Finished GEN_EVENT for vid 41 in 0.000000 seconds
+
+ processing video: 10042.mp4 ... Finished FFMPEG for vid 42 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10042.mp4 .... 
+
+Finished GEN_EVENT for vid 42 in 0.000000 seconds
+
+ processing video: 10043.mp4 ... Finished FFMPEG for vid 43 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10043.mp4 .... 
+
+Finished GEN_EVENT for vid 43 in 0.000000 seconds
+
+ processing video: 10044.mp4 ... Finished FFMPEG for vid 44 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10044.mp4 .... 
+
+Finished GEN_EVENT for vid 44 in 0.000000 seconds
+
+ processing video: 10045.mp4 ... Finished FFMPEG for vid 45 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10045.mp4 .... 
+
+Finished GEN_EVENT for vid 45 in 0.000000 seconds
+
+ processing video: 10046.mp4 ... Finished FFMPEG for vid 46 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10046.mp4 .... 
+
+Finished GEN_EVENT for vid 46 in 0.000000 seconds
+
+ processing video: 10047.mp4 ... Finished FFMPEG for vid 47 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10047.mp4 .... 
+
+Finished GEN_EVENT for vid 47 in 0.000000 seconds
+
+ processing video: 10048.mp4 ... Finished FFMPEG for vid 48 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10048.mp4 .... 
+
+Finished GEN_EVENT for vid 48 in 0.000000 seconds
+
+ processing video: 10049.mp4 ... Finished FFMPEG for vid 49 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10049.mp4 .... 
+
+Finished GEN_EVENT for vid 49 in 0.000000 seconds
+
+ processing video: 10050.mp4 ... Finished FFMPEG for vid 50 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10050.mp4 .... 
+
+Finished GEN_EVENT for vid 50 in 0.000000 seconds
+
+ processing video: 10051.mp4 ... Finished FFMPEG for vid 51 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10051.mp4 .... 
+
+Finished GEN_EVENT for vid 51 in 0.000000 seconds
+
+ processing video: 10052.mp4 ... Finished FFMPEG for vid 52 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10052.mp4 .... 
+
+Finished GEN_EVENT for vid 52 in 0.000000 seconds
+
+ processing video: 10053.mp4 ... Finished FFMPEG for vid 53 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10053.mp4 .... 
+
+Finished GEN_EVENT for vid 53 in 0.000000 seconds
+
+ processing video: 10054.mp4 ... Finished FFMPEG for vid 54 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10054.mp4 .... 
+
+Finished GEN_EVENT for vid 54 in 0.000000 seconds
+
+ processing video: 10055.mp4 ... Finished FFMPEG for vid 55 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10055.mp4 .... 
+
+Finished GEN_EVENT for vid 55 in 0.000000 seconds
+
+ processing video: 10056.mp4 ... Finished FFMPEG for vid 56 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10056.mp4 .... 
+
+Finished GEN_EVENT for vid 56 in 0.000000 seconds
+
+ processing video: 10057.mp4 ... Finished FFMPEG for vid 57 in 0.000000 seconds
+
+ Found 29 pictures in the ./tmp directory
+ Generating events successfully for 10057.mp4 .... 
+
+Finished GEN_EVENT for vid 57 in 0.000000 seconds
+
+ processing video: 10058.mp4 ... Finished FFMPEG for vid 58 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10058.mp4 .... 
+
+Finished GEN_EVENT for vid 58 in 0.000000 seconds
+
+ processing video: 10059.mp4 ... Finished FFMPEG for vid 59 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10059.mp4 .... 
+
+Finished GEN_EVENT for vid 59 in 0.000000 seconds
+
+ processing video: 10060.mp4 ... Finished FFMPEG for vid 60 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10060.mp4 .... 
+
+Finished GEN_EVENT for vid 60 in 0.000000 seconds
+
+ processing video: 10061.mp4 ... Finished FFMPEG for vid 61 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10061.mp4 .... 
+
+Finished GEN_EVENT for vid 61 in 0.000000 seconds
+
+ processing video: 10062.mp4 ... Finished FFMPEG for vid 62 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10062.mp4 .... 
+
+Finished GEN_EVENT for vid 62 in 0.000000 seconds
+
+ processing video: 10063.mp4 ... Finished FFMPEG for vid 63 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10063.mp4 .... 
+
+Finished GEN_EVENT for vid 63 in 0.000000 seconds
+
+ processing video: 10064.mp4 ... Finished FFMPEG for vid 64 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10064.mp4 .... 
+
+Finished GEN_EVENT for vid 64 in 0.000000 seconds
+
+ processing video: 10065.mp4 ... Finished FFMPEG for vid 65 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10065.mp4 .... 
+
+Finished GEN_EVENT for vid 65 in 0.000000 seconds
+
+ processing video: 10066.mp4 ... Finished FFMPEG for vid 66 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10066.mp4 .... 
+
+Finished GEN_EVENT for vid 66 in 0.000000 seconds
+
+ processing video: 10067.mp4 ... Finished FFMPEG for vid 67 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10067.mp4 .... 
+
+Finished GEN_EVENT for vid 67 in 0.000000 seconds
+
+ processing video: 10068.mp4 ... Finished FFMPEG for vid 68 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10068.mp4 .... 
+
+Finished GEN_EVENT for vid 68 in 0.000000 seconds
+
+ processing video: 10069.mp4 ... Finished FFMPEG for vid 69 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10069.mp4 .... 
+
+Finished GEN_EVENT for vid 69 in 0.000000 seconds
+
+ processing video: 10070.mp4 ... Finished FFMPEG for vid 70 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10070.mp4 .... 
+
+Finished GEN_EVENT for vid 70 in 0.000000 seconds
+
+ processing video: 10071.mp4 ... Finished FFMPEG for vid 71 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10071.mp4 .... 
+
+Finished GEN_EVENT for vid 71 in 0.000000 seconds
+
+ processing video: 10072.mp4 ... Finished FFMPEG for vid 72 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10072.mp4 .... 
+
+Finished GEN_EVENT for vid 72 in 0.000000 seconds
+
+ processing video: 10073.mp4 ... Finished FFMPEG for vid 73 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10073.mp4 .... 
+
+Finished GEN_EVENT for vid 73 in 0.000000 seconds
+
+ processing video: 10074.mp4 ... Finished FFMPEG for vid 74 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10074.mp4 .... 
+
+Finished GEN_EVENT for vid 74 in 0.000000 seconds
+
+ processing video: 10075.mp4 ... Finished FFMPEG for vid 75 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10075.mp4 .... 
+
+Finished GEN_EVENT for vid 75 in 0.000000 seconds
+
+ processing video: 10076.mp4 ... Finished FFMPEG for vid 76 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10076.mp4 .... 
+
+Finished GEN_EVENT for vid 76 in 0.000000 seconds
+
+ processing video: 10077.mp4 ... Finished FFMPEG for vid 77 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10077.mp4 .... 
+
+Finished GEN_EVENT for vid 77 in 0.000000 seconds
+
+ processing video: 10078.mp4 ... Finished FFMPEG for vid 78 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10078.mp4 .... 
+
+Finished GEN_EVENT for vid 78 in 0.000000 seconds
+
+ processing video: 10079.mp4 ... Finished FFMPEG for vid 79 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10079.mp4 .... 
+
+Finished GEN_EVENT for vid 79 in 0.000000 seconds
+
+ processing video: 10080.mp4 ... Finished FFMPEG for vid 80 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10080.mp4 .... 
+
+Finished GEN_EVENT for vid 80 in 0.000000 seconds
+
+ processing video: 10081.mp4 ... Finished FFMPEG for vid 81 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10081.mp4 .... 
+
+Finished GEN_EVENT for vid 81 in 0.000000 seconds
+
+ processing video: 10082.mp4 ... Finished FFMPEG for vid 82 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10082.mp4 .... 
+
+Finished GEN_EVENT for vid 82 in 0.000000 seconds
+
+ processing video: 10083.mp4 ... Finished FFMPEG for vid 83 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10083.mp4 .... 
+
+Finished GEN_EVENT for vid 83 in 0.000000 seconds
+
+ processing video: 10084.mp4 ... Finished FFMPEG for vid 84 in 0.000000 seconds
+
+ Found 19 pictures in the ./tmp directory
+ Generating events successfully for 10084.mp4 .... 
+
+Finished GEN_EVENT for vid 84 in 0.000000 seconds
+
+ processing video: 10085.mp4 ... Finished FFMPEG for vid 85 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10085.mp4 .... 
+
+Finished GEN_EVENT for vid 85 in 0.000000 seconds
+
+ processing video: 10086.mp4 ... Finished FFMPEG for vid 86 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10086.mp4 .... 
+
+Finished GEN_EVENT for vid 86 in 0.000000 seconds
+
+ processing video: 10087.mp4 ... Finished FFMPEG for vid 87 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10087.mp4 .... 
+
+Finished GEN_EVENT for vid 87 in 0.000000 seconds
+
+ processing video: 10088.mp4 ... Finished FFMPEG for vid 88 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10088.mp4 .... 
+
+Finished GEN_EVENT for vid 88 in 0.000000 seconds
+
+ processing video: 10089.mp4 ... Finished FFMPEG for vid 89 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10089.mp4 .... 
+
+Finished GEN_EVENT for vid 89 in 0.000000 seconds
+
+ processing video: 10090.mp4 ... Finished FFMPEG for vid 90 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10090.mp4 .... 
+
+Finished GEN_EVENT for vid 90 in 0.000000 seconds
+
+ processing video: 10091.mp4 ... Finished FFMPEG for vid 91 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10091.mp4 .... 
+
+Finished GEN_EVENT for vid 91 in 0.000000 seconds
+
+ processing video: 10092.mp4 ... Finished FFMPEG for vid 92 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10092.mp4 .... 
+
+Finished GEN_EVENT for vid 92 in 0.000000 seconds
+
+ processing video: 10093.mp4 ... Finished FFMPEG for vid 93 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10093.mp4 .... 
+
+Finished GEN_EVENT for vid 93 in 0.000000 seconds
+
+ processing video: 10094.mp4 ... Finished FFMPEG for vid 94 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10094.mp4 .... 
+
+Finished GEN_EVENT for vid 94 in 0.000000 seconds
+
+ processing video: 10095.mp4 ... Finished FFMPEG for vid 95 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10095.mp4 .... 
+
+Finished GEN_EVENT for vid 95 in 0.000000 seconds
+
+ processing video: 10096.mp4 ... Finished FFMPEG for vid 96 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10096.mp4 .... 
+
+Finished GEN_EVENT for vid 96 in 0.000000 seconds
+
+ processing video: 10097.mp4 ... Finished FFMPEG for vid 97 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10097.mp4 .... 
+
+Finished GEN_EVENT for vid 97 in 0.000000 seconds
+
+ processing video: 10098.mp4 ... Finished FFMPEG for vid 98 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10098.mp4 .... 
+
+Finished GEN_EVENT for vid 98 in 0.000000 seconds
+
+ processing video: 10099.mp4 ... Finished FFMPEG for vid 99 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10099.mp4 .... 
+
+Finished GEN_EVENT for vid 99 in 0.000000 seconds
+
+ processing video: 10100.mp4 ... Finished FFMPEG for vid 100 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10100.mp4 .... 
+
+Finished GEN_EVENT for vid 100 in 0.000000 seconds
+
+ processing video: 10101.mp4 ... Finished FFMPEG for vid 101 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10101.mp4 .... 
+
+Finished GEN_EVENT for vid 101 in 0.000000 seconds
+
+ processing video: 10102.mp4 ... Finished FFMPEG for vid 102 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10102.mp4 .... 
+
+Finished GEN_EVENT for vid 102 in 0.000000 seconds
+
+ processing video: 10103.mp4 ... Finished FFMPEG for vid 103 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10103.mp4 .... 
+
+Finished GEN_EVENT for vid 103 in 0.000000 seconds
+
+ processing video: 10104.mp4 ... Finished FFMPEG for vid 104 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10104.mp4 .... 
+
+Finished GEN_EVENT for vid 104 in 0.000000 seconds
+
+ processing video: 10105.mp4 ... Finished FFMPEG for vid 105 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10105.mp4 .... 
+
+Finished GEN_EVENT for vid 105 in 0.000000 seconds
+
+ processing video: 10106.mp4 ... Finished FFMPEG for vid 106 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10106.mp4 .... 
+
+Finished GEN_EVENT for vid 106 in 0.000000 seconds
+
+ processing video: 10107.mp4 ... Finished FFMPEG for vid 107 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10107.mp4 .... 
+
+Finished GEN_EVENT for vid 107 in 0.000000 seconds
+
+ processing video: 10108.mp4 ... Finished FFMPEG for vid 108 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10108.mp4 .... 
+
+Finished GEN_EVENT for vid 108 in 0.000000 seconds
+
+ processing video: 10109.mp4 ... Finished FFMPEG for vid 109 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10109.mp4 .... 
+
+Finished GEN_EVENT for vid 109 in 0.000000 seconds
+
+ processing video: 10110.mp4 ... Finished FFMPEG for vid 110 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10110.mp4 .... 
+
+Finished GEN_EVENT for vid 110 in 0.000000 seconds
+
+ processing video: 10111.mp4 ... Finished FFMPEG for vid 111 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10111.mp4 .... 
+
+Finished GEN_EVENT for vid 111 in 0.000000 seconds
+
+ processing video: 10112.mp4 ... Finished FFMPEG for vid 112 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10112.mp4 .... 
+
+Finished GEN_EVENT for vid 112 in 0.000000 seconds
+
+ processing video: 10113.mp4 ... Finished FFMPEG for vid 113 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10113.mp4 .... 
+
+Finished GEN_EVENT for vid 113 in 0.000000 seconds
+
+ processing video: 10114.mp4 ... Finished FFMPEG for vid 114 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10114.mp4 .... 
+
+Finished GEN_EVENT for vid 114 in 0.000000 seconds
+
+ processing video: 10115.mp4 ... Finished FFMPEG for vid 115 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10115.mp4 .... 
+
+Finished GEN_EVENT for vid 115 in 0.000000 seconds
+
+ processing video: 10116.mp4 ... Finished FFMPEG for vid 116 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10116.mp4 .... 
+
+Finished GEN_EVENT for vid 116 in 0.000000 seconds
+
+ processing video: 10117.mp4 ... Finished FFMPEG for vid 117 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10117.mp4 .... 
+
+Finished GEN_EVENT for vid 117 in 0.000000 seconds
+
+ processing video: 10118.mp4 ... Finished FFMPEG for vid 118 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10118.mp4 .... 
+
+Finished GEN_EVENT for vid 118 in 0.000000 seconds
+
+ processing video: 10119.mp4 ... Finished FFMPEG for vid 119 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10119.mp4 .... 
+
+Finished GEN_EVENT for vid 119 in 0.000000 seconds
+
+ processing video: 10120.mp4 ... Finished FFMPEG for vid 120 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10120.mp4 .... 
+
+Finished GEN_EVENT for vid 120 in 0.000000 seconds
+
+ processing video: 10121.mp4 ... Finished FFMPEG for vid 121 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10121.mp4 .... 
+
+Finished GEN_EVENT for vid 121 in 0.000000 seconds
+
+ processing video: 10122.mp4 ... Finished FFMPEG for vid 122 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10122.mp4 .... 
+
+Finished GEN_EVENT for vid 122 in 0.000000 seconds
+
+ processing video: 10123.mp4 ... Finished FFMPEG for vid 123 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10123.mp4 .... 
+
+Finished GEN_EVENT for vid 123 in 0.000000 seconds
+
+ processing video: 10124.mp4 ... Finished FFMPEG for vid 124 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10124.mp4 .... 
+
+Finished GEN_EVENT for vid 124 in 0.000000 seconds
+
+ processing video: 10125.mp4 ... Finished FFMPEG for vid 125 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10125.mp4 .... 
+
+Finished GEN_EVENT for vid 125 in 0.000000 seconds
+
+ processing video: 10126.mp4 ... Finished FFMPEG for vid 126 in 0.000000 seconds
+
+ Found 41 pictures in the ./tmp directory
+ Generating events successfully for 10126.mp4 .... 
+
+Finished GEN_EVENT for vid 126 in 0.000000 seconds
+
+ processing video: 10127.mp4 ... Finished FFMPEG for vid 127 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10127.mp4 .... 
+
+Finished GEN_EVENT for vid 127 in 0.000000 seconds
+
+ processing video: 10128.mp4 ... Finished FFMPEG for vid 128 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10128.mp4 .... 
+
+Finished GEN_EVENT for vid 128 in 0.000000 seconds
+
+ processing video: 10129.mp4 ... Finished FFMPEG for vid 129 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10129.mp4 .... 
+
+Finished GEN_EVENT for vid 129 in 0.000000 seconds
+
+ processing video: 10130.mp4 ... Finished FFMPEG for vid 130 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10130.mp4 .... 
+
+Finished GEN_EVENT for vid 130 in 0.000000 seconds
+
+ processing video: 10131.mp4 ... Finished FFMPEG for vid 131 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10131.mp4 .... 
+
+Finished GEN_EVENT for vid 131 in 0.000000 seconds
+
+ processing video: 10132.mp4 ... Finished FFMPEG for vid 132 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10132.mp4 .... 
+
+Finished GEN_EVENT for vid 132 in 0.000000 seconds
+
+ processing video: 10133.mp4 ... Finished FFMPEG for vid 133 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10133.mp4 .... 
+
+Finished GEN_EVENT for vid 133 in 0.000000 seconds
+
+ processing video: 10134.mp4 ... Finished FFMPEG for vid 134 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10134.mp4 .... 
+
+Finished GEN_EVENT for vid 134 in 0.000000 seconds
+
+ processing video: 10135.mp4 ... Finished FFMPEG for vid 135 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10135.mp4 .... 
+
+Finished GEN_EVENT for vid 135 in 0.000000 seconds
+
+ processing video: 10136.mp4 ... Finished FFMPEG for vid 136 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10136.mp4 .... 
+
+Finished GEN_EVENT for vid 136 in 0.000000 seconds
+
+ processing video: 10137.mp4 ... Finished FFMPEG for vid 137 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10137.mp4 .... 
+
+Finished GEN_EVENT for vid 137 in 0.000000 seconds
+
+ processing video: 10138.mp4 ... Finished FFMPEG for vid 138 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10138.mp4 .... 
+
+Finished GEN_EVENT for vid 138 in 0.000000 seconds
+
+ processing video: 10139.mp4 ... Finished FFMPEG for vid 139 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10139.mp4 .... 
+
+Finished GEN_EVENT for vid 139 in 0.000000 seconds
+
+ processing video: 10140.mp4 ... Finished FFMPEG for vid 140 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10140.mp4 .... 
+
+Finished GEN_EVENT for vid 140 in 0.000000 seconds
+
+ processing video: 10141.mp4 ... Finished FFMPEG for vid 141 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10141.mp4 .... 
+
+Finished GEN_EVENT for vid 141 in 0.000000 seconds
+
+ processing video: 10142.mp4 ... Finished FFMPEG for vid 142 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10142.mp4 .... 
+
+Finished GEN_EVENT for vid 142 in 0.000000 seconds
+
+ processing video: 10143.mp4 ... Finished FFMPEG for vid 143 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10143.mp4 .... 
+
+Finished GEN_EVENT for vid 143 in 0.000000 seconds
+
+ processing video: 10144.mp4 ... Finished FFMPEG for vid 144 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10144.mp4 .... 
+
+Finished GEN_EVENT for vid 144 in 0.000000 seconds
+
+ processing video: 10145.mp4 ... Finished FFMPEG for vid 145 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10145.mp4 .... 
+
+Finished GEN_EVENT for vid 145 in 0.000000 seconds
+
+ processing video: 10146.mp4 ... Finished FFMPEG for vid 146 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10146.mp4 .... 
+
+Finished GEN_EVENT for vid 146 in 0.000000 seconds
+
+ processing video: 10147.mp4 ... Finished FFMPEG for vid 147 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10147.mp4 .... 
+
+Finished GEN_EVENT for vid 147 in 0.000000 seconds
+
+ processing video: 10148.mp4 ... Finished FFMPEG for vid 148 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10148.mp4 .... 
+
+Finished GEN_EVENT for vid 148 in 0.000000 seconds
+
+ processing video: 10149.mp4 ... Finished FFMPEG for vid 149 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10149.mp4 .... 
+
+Finished GEN_EVENT for vid 149 in 0.000000 seconds
+
+ processing video: 10150.mp4 ... Finished FFMPEG for vid 150 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10150.mp4 .... 
+
+Finished GEN_EVENT for vid 150 in 0.000000 seconds
+
+ processing video: 10151.mp4 ... Finished FFMPEG for vid 151 in 0.000000 seconds
+
+ Found 39 pictures in the ./tmp directory
+ Generating events successfully for 10151.mp4 .... 
+
+Finished GEN_EVENT for vid 151 in 0.000000 seconds
+
+ processing video: 10152.mp4 ... Finished FFMPEG for vid 152 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10152.mp4 .... 
+
+Finished GEN_EVENT for vid 152 in 0.000000 seconds
+
+ processing video: 10153.mp4 ... Finished FFMPEG for vid 153 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10153.mp4 .... 
+
+Finished GEN_EVENT for vid 153 in 0.000000 seconds
+
+ processing video: 10154.mp4 ... Finished FFMPEG for vid 154 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10154.mp4 .... 
+
+Finished GEN_EVENT for vid 154 in 0.000000 seconds
+
+ processing video: 10155.mp4 ... Finished FFMPEG for vid 155 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10155.mp4 .... 
+
+Finished GEN_EVENT for vid 155 in 0.000000 seconds
+
+ processing video: 10156.mp4 ... Finished FFMPEG for vid 156 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10156.mp4 .... 
+
+Finished GEN_EVENT for vid 156 in 0.000000 seconds
+
+ processing video: 10157.mp4 ... Finished FFMPEG for vid 157 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10157.mp4 .... 
+
+Finished GEN_EVENT for vid 157 in 0.000000 seconds
+
+ processing video: 10158.mp4 ... Finished FFMPEG for vid 158 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10158.mp4 .... 
+
+Finished GEN_EVENT for vid 158 in 0.000000 seconds
+
+ processing video: 10159.mp4 ... Finished FFMPEG for vid 159 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10159.mp4 .... 
+
+Finished GEN_EVENT for vid 159 in 0.000000 seconds
+
+ processing video: 10160.mp4 ... Finished FFMPEG for vid 160 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10160.mp4 .... 
+
+Finished GEN_EVENT for vid 160 in 0.000000 seconds
+
+ processing video: 10161.mp4 ... Finished FFMPEG for vid 161 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10161.mp4 .... 
+
+Finished GEN_EVENT for vid 161 in 0.000000 seconds
+
+ processing video: 10162.mp4 ... Finished FFMPEG for vid 162 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10162.mp4 .... 
+
+Finished GEN_EVENT for vid 162 in 0.000000 seconds
+
+ processing video: 10163.mp4 ... Finished FFMPEG for vid 163 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10163.mp4 .... 
+
+Finished GEN_EVENT for vid 163 in 0.000000 seconds
+
+ processing video: 10164.mp4 ... Finished FFMPEG for vid 164 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10164.mp4 .... 
+
+Finished GEN_EVENT for vid 164 in 0.000000 seconds
+
+ processing video: 10165.mp4 ... Finished FFMPEG for vid 165 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10165.mp4 .... 
+
+Finished GEN_EVENT for vid 165 in 0.000000 seconds
+
+ processing video: 10166.mp4 ... Finished FFMPEG for vid 166 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10166.mp4 .... 
+
+Finished GEN_EVENT for vid 166 in 0.000000 seconds
+
+ processing video: 10167.mp4 ... Finished FFMPEG for vid 167 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10167.mp4 .... 
+
+Finished GEN_EVENT for vid 167 in 0.000000 seconds
+
+ processing video: 10168.mp4 ... Finished FFMPEG for vid 168 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10168.mp4 .... 
+
+Finished GEN_EVENT for vid 168 in 0.000000 seconds
+
+ processing video: 10169.mp4 ... Finished FFMPEG for vid 169 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10169.mp4 .... 
+
+Finished GEN_EVENT for vid 169 in 0.000000 seconds
+
+ processing video: 10170.mp4 ... Finished FFMPEG for vid 170 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10170.mp4 .... 
+
+Finished GEN_EVENT for vid 170 in 0.000000 seconds
+
+ processing video: 10171.mp4 ... Finished FFMPEG for vid 171 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10171.mp4 .... 
+
+Finished GEN_EVENT for vid 171 in 0.000000 seconds
+
+ processing video: 10172.mp4 ... Finished FFMPEG for vid 172 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10172.mp4 .... 
+
+Finished GEN_EVENT for vid 172 in 0.000000 seconds
+
+ processing video: 10173.mp4 ... Finished FFMPEG for vid 173 in 0.000000 seconds
+
+ Found 39 pictures in the ./tmp directory
+ Generating events successfully for 10173.mp4 .... 
+
+Finished GEN_EVENT for vid 173 in 0.000000 seconds
+
+ processing video: 10174.mp4 ... Finished FFMPEG for vid 174 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10174.mp4 .... 
+
+Finished GEN_EVENT for vid 174 in 0.000000 seconds
+
+ processing video: 10175.mp4 ... Finished FFMPEG for vid 175 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10175.mp4 .... 
+
+Finished GEN_EVENT for vid 175 in 0.000000 seconds
+
+ processing video: 10176.mp4 ... Finished FFMPEG for vid 176 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10176.mp4 .... 
+
+Finished GEN_EVENT for vid 176 in 0.000000 seconds
+
+ processing video: 10177.mp4 ... Finished FFMPEG for vid 177 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10177.mp4 .... 
+
+Finished GEN_EVENT for vid 177 in 0.000000 seconds
+
+ processing video: 10178.mp4 ... Finished FFMPEG for vid 178 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10178.mp4 .... 
+
+Finished GEN_EVENT for vid 178 in 0.000000 seconds
+
+ processing video: 10179.mp4 ... Finished FFMPEG for vid 179 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10179.mp4 .... 
+
+Finished GEN_EVENT for vid 179 in 0.000000 seconds
+
+ processing video: 10180.mp4 ... Finished FFMPEG for vid 180 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10180.mp4 .... 
+
+Finished GEN_EVENT for vid 180 in 0.000000 seconds
+
+ processing video: 10181.mp4 ... Finished FFMPEG for vid 181 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10181.mp4 .... 
+
+Finished GEN_EVENT for vid 181 in 0.000000 seconds
+
+ processing video: 10182.mp4 ... Finished FFMPEG for vid 182 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10182.mp4 .... 
+
+Finished GEN_EVENT for vid 182 in 0.000000 seconds
+
+ processing video: 10183.mp4 ... Finished FFMPEG for vid 183 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10183.mp4 .... 
+
+Finished GEN_EVENT for vid 183 in 0.000000 seconds
+
+ processing video: 10184.mp4 ... Finished FFMPEG for vid 184 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10184.mp4 .... 
+
+Finished GEN_EVENT for vid 184 in 0.000000 seconds
+
+ processing video: 10185.mp4 ... Finished FFMPEG for vid 185 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10185.mp4 .... 
+
+Finished GEN_EVENT for vid 185 in 0.000000 seconds
+
+ processing video: 10186.mp4 ... Finished FFMPEG for vid 186 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10186.mp4 .... 
+
+Finished GEN_EVENT for vid 186 in 0.000000 seconds
+
+ processing video: 10187.mp4 ... Finished FFMPEG for vid 187 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10187.mp4 .... 
+
+Finished GEN_EVENT for vid 187 in 0.000000 seconds
+
+ processing video: 10188.mp4 ... Finished FFMPEG for vid 188 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10188.mp4 .... 
+
+Finished GEN_EVENT for vid 188 in 0.000000 seconds
+
+ processing video: 10189.mp4 ... Finished FFMPEG for vid 189 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10189.mp4 .... 
+
+Finished GEN_EVENT for vid 189 in 0.000000 seconds
+
+ processing video: 10190.mp4 ... Finished FFMPEG for vid 190 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10190.mp4 .... 
+
+Finished GEN_EVENT for vid 190 in 0.000000 seconds
+
+ processing video: 10191.mp4 ... Finished FFMPEG for vid 191 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10191.mp4 .... 
+
+Finished GEN_EVENT for vid 191 in 0.000000 seconds
+
+ processing video: 10192.mp4 ... Finished FFMPEG for vid 192 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10192.mp4 .... 
+
+Finished GEN_EVENT for vid 192 in 0.000000 seconds
+
+ processing video: 10193.mp4 ... Finished FFMPEG for vid 193 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10193.mp4 .... 
+
+Finished GEN_EVENT for vid 193 in 0.000000 seconds
+
+ processing video: 10194.mp4 ... Finished FFMPEG for vid 194 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10194.mp4 .... 
+
+Finished GEN_EVENT for vid 194 in 0.000000 seconds
+
+ processing video: 10195.mp4 ... Finished FFMPEG for vid 195 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10195.mp4 .... 
+
+Finished GEN_EVENT for vid 195 in 0.000000 seconds
+
+ processing video: 10196.mp4 ... Finished FFMPEG for vid 196 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10196.mp4 .... 
+
+Finished GEN_EVENT for vid 196 in 0.000000 seconds
+
+ processing video: 10197.mp4 ... Finished FFMPEG for vid 197 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10197.mp4 .... 
+
+Finished GEN_EVENT for vid 197 in 0.000000 seconds
+
+ processing video: 10198.mp4 ... Finished FFMPEG for vid 198 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10198.mp4 .... 
+
+Finished GEN_EVENT for vid 198 in 0.000000 seconds
+
+ processing video: 10199.mp4 ... Finished FFMPEG for vid 199 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10199.mp4 .... 
+
+Finished GEN_EVENT for vid 199 in 0.000000 seconds
+
+ processing video: 10200.mp4 ... Finished FFMPEG for vid 200 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10200.mp4 .... 
+
+Finished GEN_EVENT for vid 200 in 0.000000 seconds
+
+ processing video: 10201.mp4 ... Finished FFMPEG for vid 201 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10201.mp4 .... 
+
+Finished GEN_EVENT for vid 201 in 0.000000 seconds
+
+ processing video: 10202.mp4 ... Finished FFMPEG for vid 202 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10202.mp4 .... 
+
+Finished GEN_EVENT for vid 202 in 0.000000 seconds
+
+ processing video: 10203.mp4 ... Finished FFMPEG for vid 203 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10203.mp4 .... 
+
+Finished GEN_EVENT for vid 203 in 0.000000 seconds
+
+ processing video: 10204.mp4 ... Finished FFMPEG for vid 204 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10204.mp4 .... 
+
+Finished GEN_EVENT for vid 204 in 0.000000 seconds
+
+ processing video: 10205.mp4 ... Finished FFMPEG for vid 205 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10205.mp4 .... 
+
+Finished GEN_EVENT for vid 205 in 0.000000 seconds
+
+ processing video: 10206.mp4 ... Finished FFMPEG for vid 206 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10206.mp4 .... 
+
+Finished GEN_EVENT for vid 206 in 0.000000 seconds
+
+ processing video: 10207.mp4 ... Finished FFMPEG for vid 207 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10207.mp4 .... 
+
+Finished GEN_EVENT for vid 207 in 0.000000 seconds
+
+ processing video: 10208.mp4 ... Finished FFMPEG for vid 208 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10208.mp4 .... 
+
+Finished GEN_EVENT for vid 208 in 0.000000 seconds
+
+ processing video: 10209.mp4 ... Finished FFMPEG for vid 209 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10209.mp4 .... 
+
+Finished GEN_EVENT for vid 209 in 0.000000 seconds
+
+ processing video: 10210.mp4 ... Finished FFMPEG for vid 210 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10210.mp4 .... 
+
+Finished GEN_EVENT for vid 210 in 0.000000 seconds
+
+ processing video: 10211.mp4 ... Finished FFMPEG for vid 211 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10211.mp4 .... 
+
+Finished GEN_EVENT for vid 211 in 0.000000 seconds
+
+ processing video: 10212.mp4 ... Finished FFMPEG for vid 212 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10212.mp4 .... 
+
+Finished GEN_EVENT for vid 212 in 0.000000 seconds
+
+ processing video: 10213.mp4 ... Finished FFMPEG for vid 213 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10213.mp4 .... 
+
+Finished GEN_EVENT for vid 213 in 0.000000 seconds
+
+ processing video: 10214.mp4 ... Finished FFMPEG for vid 214 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10214.mp4 .... 
+
+Finished GEN_EVENT for vid 214 in 0.000000 seconds
+
+ processing video: 10215.mp4 ... Finished FFMPEG for vid 215 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10215.mp4 .... 
+
+Finished GEN_EVENT for vid 215 in 0.000000 seconds
+
+ processing video: 10216.mp4 ... Finished FFMPEG for vid 216 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10216.mp4 .... 
+
+Finished GEN_EVENT for vid 216 in 0.000000 seconds
+
+ processing video: 10217.mp4 ... Finished FFMPEG for vid 217 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10217.mp4 .... 
+
+Finished GEN_EVENT for vid 217 in 0.000000 seconds
+
+ processing video: 10218.mp4 ... Finished FFMPEG for vid 218 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10218.mp4 .... 
+
+Finished GEN_EVENT for vid 218 in 0.000000 seconds
+
+ processing video: 10219.mp4 ... Finished FFMPEG for vid 219 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10219.mp4 .... 
+
+Finished GEN_EVENT for vid 219 in 0.000000 seconds
+
+ processing video: 10220.mp4 ... Finished FFMPEG for vid 220 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10220.mp4 .... 
+
+Finished GEN_EVENT for vid 220 in 0.000000 seconds
+
+ processing video: 10221.mp4 ... Finished FFMPEG for vid 221 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10221.mp4 .... 
+
+Finished GEN_EVENT for vid 221 in 0.000000 seconds
+
+ processing video: 10222.mp4 ... Finished FFMPEG for vid 222 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10222.mp4 .... 
+
+Finished GEN_EVENT for vid 222 in 0.000000 seconds
+
+ processing video: 10223.mp4 ... Finished FFMPEG for vid 223 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10223.mp4 .... 
+
+Finished GEN_EVENT for vid 223 in 0.000000 seconds
+
+ processing video: 10224.mp4 ... Finished FFMPEG for vid 224 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10224.mp4 .... 
+
+Finished GEN_EVENT for vid 224 in 0.000000 seconds
+
+ processing video: 10225.mp4 ... Finished FFMPEG for vid 225 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10225.mp4 .... 
+
+Finished GEN_EVENT for vid 225 in 0.000000 seconds
+
+ processing video: 10226.mp4 ... Finished FFMPEG for vid 226 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10226.mp4 .... 
+
+Finished GEN_EVENT for vid 226 in 0.000000 seconds
+
+ processing video: 10227.mp4 ... Finished FFMPEG for vid 227 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10227.mp4 .... 
+
+Finished GEN_EVENT for vid 227 in 0.000000 seconds
+
+ processing video: 10228.mp4 ... Finished FFMPEG for vid 228 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10228.mp4 .... 
+
+Finished GEN_EVENT for vid 228 in 0.000000 seconds
+
+ processing video: 10229.mp4 ... Finished FFMPEG for vid 229 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10229.mp4 .... 
+
+Finished GEN_EVENT for vid 229 in 0.000000 seconds
+
+ processing video: 10230.mp4 ... Finished FFMPEG for vid 230 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10230.mp4 .... 
+
+Finished GEN_EVENT for vid 230 in 0.000000 seconds
+
+ processing video: 10231.mp4 ... Finished FFMPEG for vid 231 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10231.mp4 .... 
+
+Finished GEN_EVENT for vid 231 in 0.000000 seconds
+
+ processing video: 10232.mp4 ... Finished FFMPEG for vid 232 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10232.mp4 .... 
+
+Finished GEN_EVENT for vid 232 in 0.000000 seconds
+
+ processing video: 10233.mp4 ... Finished FFMPEG for vid 233 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10233.mp4 .... 
+
+Finished GEN_EVENT for vid 233 in 0.000000 seconds
+
+ processing video: 10234.mp4 ... Finished FFMPEG for vid 234 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10234.mp4 .... 
+
+Finished GEN_EVENT for vid 234 in 0.000000 seconds
+
+ processing video: 10235.mp4 ... Finished FFMPEG for vid 235 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10235.mp4 .... 
+
+Finished GEN_EVENT for vid 235 in 0.000000 seconds
+
+ processing video: 10236.mp4 ... Finished FFMPEG for vid 236 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10236.mp4 .... 
+
+Finished GEN_EVENT for vid 236 in 0.000000 seconds
+
+ processing video: 10237.mp4 ... Finished FFMPEG for vid 237 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10237.mp4 .... 
+
+Finished GEN_EVENT for vid 237 in 0.000000 seconds
+
+ processing video: 10238.mp4 ... Finished FFMPEG for vid 238 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10238.mp4 .... 
+
+Finished GEN_EVENT for vid 238 in 0.000000 seconds
+
+ processing video: 10239.mp4 ... Finished FFMPEG for vid 239 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10239.mp4 .... 
+
+Finished GEN_EVENT for vid 239 in 0.000000 seconds
+
+ processing video: 10240.mp4 ... Finished FFMPEG for vid 240 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10240.mp4 .... 
+
+Finished GEN_EVENT for vid 240 in 0.000000 seconds
+
+ processing video: 10241.mp4 ... Finished FFMPEG for vid 241 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10241.mp4 .... 
+
+Finished GEN_EVENT for vid 241 in 0.000000 seconds
+
+ processing video: 10242.mp4 ... Finished FFMPEG for vid 242 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10242.mp4 .... 
+
+Finished GEN_EVENT for vid 242 in 0.000000 seconds
+
+ processing video: 10243.mp4 ... Finished FFMPEG for vid 243 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10243.mp4 .... 
+
+Finished GEN_EVENT for vid 243 in 0.000000 seconds
+
+ processing video: 10244.mp4 ... Finished FFMPEG for vid 244 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10244.mp4 .... 
+
+Finished GEN_EVENT for vid 244 in 0.000000 seconds
+
+ processing video: 10245.mp4 ... Finished FFMPEG for vid 245 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10245.mp4 .... 
+
+Finished GEN_EVENT for vid 245 in 0.000000 seconds
+
+ processing video: 10246.mp4 ... Finished FFMPEG for vid 246 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10246.mp4 .... 
+
+Finished GEN_EVENT for vid 246 in 0.000000 seconds
+
+ processing video: 10247.mp4 ... Finished FFMPEG for vid 247 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10247.mp4 .... 
+
+Finished GEN_EVENT for vid 247 in 0.000000 seconds
+
+ processing video: 10248.mp4 ... Finished FFMPEG for vid 248 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10248.mp4 .... 
+
+Finished GEN_EVENT for vid 248 in 0.000000 seconds
+
+ processing video: 10249.mp4 ... Finished FFMPEG for vid 249 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10249.mp4 .... 
+
+Finished GEN_EVENT for vid 249 in 0.000000 seconds
+
+ processing video: 10250.mp4 ... Finished FFMPEG for vid 250 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10250.mp4 .... 
+
+Finished GEN_EVENT for vid 250 in 0.000000 seconds
+
+ processing video: 10251.mp4 ... Finished FFMPEG for vid 251 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10251.mp4 .... 
+
+Finished GEN_EVENT for vid 251 in 0.000000 seconds
+
+ processing video: 10252.mp4 ... Finished FFMPEG for vid 252 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10252.mp4 .... 
+
+Finished GEN_EVENT for vid 252 in 0.000000 seconds
+
+ processing video: 10253.mp4 ... Finished FFMPEG for vid 253 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10253.mp4 .... 
+
+Finished GEN_EVENT for vid 253 in 0.000000 seconds
+
+ processing video: 10254.mp4 ... Finished FFMPEG for vid 254 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10254.mp4 .... 
+
+Finished GEN_EVENT for vid 254 in 0.000000 seconds
+
+ processing video: 10255.mp4 ... Finished FFMPEG for vid 255 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10255.mp4 .... 
+
+Finished GEN_EVENT for vid 255 in 0.000000 seconds
+
+ processing video: 10256.mp4 ... Finished FFMPEG for vid 256 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10256.mp4 .... 
+
+Finished GEN_EVENT for vid 256 in 0.000000 seconds
+
+ processing video: 10257.mp4 ... Finished FFMPEG for vid 257 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10257.mp4 .... 
+
+Finished GEN_EVENT for vid 257 in 0.000000 seconds
+
+ processing video: 10258.mp4 ... Finished FFMPEG for vid 258 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10258.mp4 .... 
+
+Finished GEN_EVENT for vid 258 in 0.000000 seconds
+
+ processing video: 10259.mp4 ... Finished FFMPEG for vid 259 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10259.mp4 .... 
+
+Finished GEN_EVENT for vid 259 in 0.000000 seconds
+
+ processing video: 10260.mp4 ... Finished FFMPEG for vid 260 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10260.mp4 .... 
+
+Finished GEN_EVENT for vid 260 in 0.000000 seconds
+
+ processing video: 10261.mp4 ... Finished FFMPEG for vid 261 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10261.mp4 .... 
+
+Finished GEN_EVENT for vid 261 in 0.000000 seconds
+
+ processing video: 10262.mp4 ... Finished FFMPEG for vid 262 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10262.mp4 .... 
+
+Finished GEN_EVENT for vid 262 in 0.000000 seconds
+
+ processing video: 10263.mp4 ... Finished FFMPEG for vid 263 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10263.mp4 .... 
+
+Finished GEN_EVENT for vid 263 in 0.000000 seconds
+
+ processing video: 10264.mp4 ... Finished FFMPEG for vid 264 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10264.mp4 .... 
+
+Finished GEN_EVENT for vid 264 in 0.000000 seconds
+
+ processing video: 10265.mp4 ... Finished FFMPEG for vid 265 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10265.mp4 .... 
+
+Finished GEN_EVENT for vid 265 in 0.000000 seconds
+
+ processing video: 10266.mp4 ... Finished FFMPEG for vid 266 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10266.mp4 .... 
+
+Finished GEN_EVENT for vid 266 in 0.000000 seconds
+
+ processing video: 10267.mp4 ... Finished FFMPEG for vid 267 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10267.mp4 .... 
+
+Finished GEN_EVENT for vid 267 in 0.000000 seconds
+
+ processing video: 10268.mp4 ... Finished FFMPEG for vid 268 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10268.mp4 .... 
+
+Finished GEN_EVENT for vid 268 in 0.000000 seconds
+
+ processing video: 10269.mp4 ... Finished FFMPEG for vid 269 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10269.mp4 .... 
+
+Finished GEN_EVENT for vid 269 in 0.000000 seconds
+
+ processing video: 10270.mp4 ... Finished FFMPEG for vid 270 in 0.000000 seconds
+
+ Found 29 pictures in the ./tmp directory
+ Generating events successfully for 10270.mp4 .... 
+
+Finished GEN_EVENT for vid 270 in 0.000000 seconds
+
+ processing video: 10271.mp4 ... Finished FFMPEG for vid 271 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10271.mp4 .... 
+
+Finished GEN_EVENT for vid 271 in 0.000000 seconds
+
+ processing video: 10272.mp4 ... Finished FFMPEG for vid 272 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10272.mp4 .... 
+
+Finished GEN_EVENT for vid 272 in 0.000000 seconds
+
+ processing video: 10273.mp4 ... Finished FFMPEG for vid 273 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10273.mp4 .... 
+
+Finished GEN_EVENT for vid 273 in 0.000000 seconds
+
+ processing video: 10274.mp4 ... Finished FFMPEG for vid 274 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10274.mp4 .... 
+
+Finished GEN_EVENT for vid 274 in 0.000000 seconds
+
+ processing video: 10275.mp4 ... Finished FFMPEG for vid 275 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10275.mp4 .... 
+
+Finished GEN_EVENT for vid 275 in 0.000000 seconds
+
+ processing video: 10276.mp4 ... Finished FFMPEG for vid 276 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10276.mp4 .... 
+
+Finished GEN_EVENT for vid 276 in 0.000000 seconds
+
+ processing video: 10277.mp4 ... Finished FFMPEG for vid 277 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10277.mp4 .... 
+
+Finished GEN_EVENT for vid 277 in 0.000000 seconds
+
+ processing video: 10278.mp4 ... Finished FFMPEG for vid 278 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10278.mp4 .... 
+
+Finished GEN_EVENT for vid 278 in 0.000000 seconds
+
+ processing video: 10279.mp4 ... Finished FFMPEG for vid 279 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10279.mp4 .... 
+
+Finished GEN_EVENT for vid 279 in 0.000000 seconds
+
+ processing video: 10280.mp4 ... Finished FFMPEG for vid 280 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10280.mp4 .... 
+
+Finished GEN_EVENT for vid 280 in 0.000000 seconds
+
+ processing video: 10281.mp4 ... Finished FFMPEG for vid 281 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10281.mp4 .... 
+
+Finished GEN_EVENT for vid 281 in 0.000000 seconds
+
+ processing video: 10282.mp4 ... Finished FFMPEG for vid 282 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10282.mp4 .... 
+
+Finished GEN_EVENT for vid 282 in 0.000000 seconds
+
+ processing video: 10283.mp4 ... Finished FFMPEG for vid 283 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10283.mp4 .... 
+
+Finished GEN_EVENT for vid 283 in 0.000000 seconds
+
+ processing video: 10284.mp4 ... Finished FFMPEG for vid 284 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10284.mp4 .... 
+
+Finished GEN_EVENT for vid 284 in 0.000000 seconds
+
+ processing video: 10285.mp4 ... Finished FFMPEG for vid 285 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10285.mp4 .... 
+
+Finished GEN_EVENT for vid 285 in 0.000000 seconds
+
+ processing video: 10286.mp4 ... Finished FFMPEG for vid 286 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10286.mp4 .... 
+
+Finished GEN_EVENT for vid 286 in 0.000000 seconds
+
+ processing video: 10287.mp4 ... Finished FFMPEG for vid 287 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10287.mp4 .... 
+
+Finished GEN_EVENT for vid 287 in 0.000000 seconds
+
+ processing video: 10288.mp4 ... Finished FFMPEG for vid 288 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10288.mp4 .... 
+
+Finished GEN_EVENT for vid 288 in 0.000000 seconds
+
+ processing video: 10289.mp4 ... Finished FFMPEG for vid 289 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10289.mp4 .... 
+
+Finished GEN_EVENT for vid 289 in 0.000000 seconds
+
+ processing video: 10290.mp4 ... Finished FFMPEG for vid 290 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10290.mp4 .... 
+
+Finished GEN_EVENT for vid 290 in 0.000000 seconds
+
+ processing video: 10291.mp4 ... Finished FFMPEG for vid 291 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10291.mp4 .... 
+
+Finished GEN_EVENT for vid 291 in 0.000000 seconds
+
+ processing video: 10292.mp4 ... Finished FFMPEG for vid 292 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10292.mp4 .... 
+
+Finished GEN_EVENT for vid 292 in 0.000000 seconds
+
+ processing video: 10293.mp4 ... Finished FFMPEG for vid 293 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10293.mp4 .... 
+
+Finished GEN_EVENT for vid 293 in 0.000000 seconds
+
+ processing video: 10294.mp4 ... Finished FFMPEG for vid 294 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10294.mp4 .... 
+
+Finished GEN_EVENT for vid 294 in 0.000000 seconds
+
+ processing video: 10295.mp4 ... Finished FFMPEG for vid 295 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10295.mp4 .... 
+
+Finished GEN_EVENT for vid 295 in 0.000000 seconds
+
+ processing video: 10296.mp4 ... Finished FFMPEG for vid 296 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10296.mp4 .... 
+
+Finished GEN_EVENT for vid 296 in 0.000000 seconds
+
+ processing video: 10297.mp4 ... Finished FFMPEG for vid 297 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10297.mp4 .... 
+
+Finished GEN_EVENT for vid 297 in 0.000000 seconds
+
+ processing video: 10298.mp4 ... Finished FFMPEG for vid 298 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10298.mp4 .... 
+
+Finished GEN_EVENT for vid 298 in 0.000000 seconds
+
+ processing video: 10299.mp4 ... Finished FFMPEG for vid 299 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10299.mp4 .... 
+
+Finished GEN_EVENT for vid 299 in 0.000000 seconds
+
+ processing video: 10300.mp4 ... Finished FFMPEG for vid 300 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10300.mp4 .... 
+
+Finished GEN_EVENT for vid 300 in 0.000000 seconds
+
+ processing video: 10301.mp4 ... Finished FFMPEG for vid 301 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10301.mp4 .... 
+
+Finished GEN_EVENT for vid 301 in 0.000000 seconds
+
+ processing video: 10302.mp4 ... Finished FFMPEG for vid 302 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10302.mp4 .... 
+
+Finished GEN_EVENT for vid 302 in 0.000000 seconds
+
+ processing video: 10303.mp4 ... Finished FFMPEG for vid 303 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10303.mp4 .... 
+
+Finished GEN_EVENT for vid 303 in 0.000000 seconds
+
+ processing video: 10304.mp4 ... Finished FFMPEG for vid 304 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10304.mp4 .... 
+
+Finished GEN_EVENT for vid 304 in 0.000000 seconds
+
+ processing video: 10305.mp4 ... Finished FFMPEG for vid 305 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10305.mp4 .... 
+
+Finished GEN_EVENT for vid 305 in 0.000000 seconds
+
+ processing video: 10306.mp4 ... Finished FFMPEG for vid 306 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10306.mp4 .... 
+
+Finished GEN_EVENT for vid 306 in 0.000000 seconds
+
+ processing video: 10307.mp4 ... Finished FFMPEG for vid 307 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10307.mp4 .... 
+
+Finished GEN_EVENT for vid 307 in 0.000000 seconds
+
+ processing video: 10308.mp4 ... Finished FFMPEG for vid 308 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10308.mp4 .... 
+
+Finished GEN_EVENT for vid 308 in 0.000000 seconds
+
+ processing video: 10309.mp4 ... Finished FFMPEG for vid 309 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10309.mp4 .... 
+
+Finished GEN_EVENT for vid 309 in 0.000000 seconds
+
+ processing video: 10310.mp4 ... Finished FFMPEG for vid 310 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10310.mp4 .... 
+
+Finished GEN_EVENT for vid 310 in 0.000000 seconds
+
+ processing video: 10311.mp4 ... Finished FFMPEG for vid 311 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10311.mp4 .... 
+
+Finished GEN_EVENT for vid 311 in 0.000000 seconds
+
+ processing video: 10312.mp4 ... Finished FFMPEG for vid 312 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10312.mp4 .... 
+
+Finished GEN_EVENT for vid 312 in 0.000000 seconds
+
+ processing video: 10313.mp4 ... Finished FFMPEG for vid 313 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10313.mp4 .... 
+
+Finished GEN_EVENT for vid 313 in 0.000000 seconds
+
+ processing video: 10314.mp4 ... Finished FFMPEG for vid 314 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10314.mp4 .... 
+
+Finished GEN_EVENT for vid 314 in 0.000000 seconds
+
+ processing video: 10315.mp4 ... Finished FFMPEG for vid 315 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10315.mp4 .... 
+
+Finished GEN_EVENT for vid 315 in 0.000000 seconds
+
+ processing video: 10316.mp4 ... Finished FFMPEG for vid 316 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10316.mp4 .... 
+
+Finished GEN_EVENT for vid 316 in 0.000000 seconds
+
+ processing video: 10317.mp4 ... Finished FFMPEG for vid 317 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10317.mp4 .... 
+
+Finished GEN_EVENT for vid 317 in 0.000000 seconds
+
+ processing video: 10318.mp4 ... Finished FFMPEG for vid 318 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10318.mp4 .... 
+
+Finished GEN_EVENT for vid 318 in 0.000000 seconds
+
+ processing video: 10319.mp4 ... Finished FFMPEG for vid 319 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10319.mp4 .... 
+
+Finished GEN_EVENT for vid 319 in 0.000000 seconds
+
+ processing video: 10320.mp4 ... Finished FFMPEG for vid 320 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10320.mp4 .... 
+
+Finished GEN_EVENT for vid 320 in 0.000000 seconds
+
+ processing video: 10321.mp4 ... Finished FFMPEG for vid 321 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10321.mp4 .... 
+
+Finished GEN_EVENT for vid 321 in 0.000000 seconds
+
+ processing video: 10322.mp4 ... Finished FFMPEG for vid 322 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10322.mp4 .... 
+
+Finished GEN_EVENT for vid 322 in 0.000000 seconds
+
+ processing video: 10323.mp4 ... Finished FFMPEG for vid 323 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10323.mp4 .... 
+
+Finished GEN_EVENT for vid 323 in 0.000000 seconds
+
+ processing video: 10324.mp4 ... Finished FFMPEG for vid 324 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10324.mp4 .... 
+
+Finished GEN_EVENT for vid 324 in 0.000000 seconds
+
+ processing video: 10325.mp4 ... Finished FFMPEG for vid 325 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10325.mp4 .... 
+
+Finished GEN_EVENT for vid 325 in 0.000000 seconds
+
+ processing video: 10326.mp4 ... Finished FFMPEG for vid 326 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10326.mp4 .... 
+
+Finished GEN_EVENT for vid 326 in 0.000000 seconds
+
+ processing video: 10327.mp4 ... Finished FFMPEG for vid 327 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10327.mp4 .... 
+
+Finished GEN_EVENT for vid 327 in 0.000000 seconds
+
+ processing video: 10328.mp4 ... Finished FFMPEG for vid 328 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10328.mp4 .... 
+
+Finished GEN_EVENT for vid 328 in 0.000000 seconds
+
+ processing video: 10329.mp4 ... Finished FFMPEG for vid 329 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10329.mp4 .... 
+
+Finished GEN_EVENT for vid 329 in 0.000000 seconds
+
+ processing video: 10330.mp4 ... Finished FFMPEG for vid 330 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10330.mp4 .... 
+
+Finished GEN_EVENT for vid 330 in 0.000000 seconds
+
+ processing video: 10331.mp4 ... Finished FFMPEG for vid 331 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10331.mp4 .... 
+
+Finished GEN_EVENT for vid 331 in 0.000000 seconds
+
+ processing video: 10332.mp4 ... Finished FFMPEG for vid 332 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10332.mp4 .... 
+
+Finished GEN_EVENT for vid 332 in 0.000000 seconds
+
+ processing video: 10333.mp4 ... Finished FFMPEG for vid 333 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10333.mp4 .... 
+
+Finished GEN_EVENT for vid 333 in 0.000000 seconds
+
+ processing video: 10334.mp4 ... Finished FFMPEG for vid 334 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10334.mp4 .... 
+
+Finished GEN_EVENT for vid 334 in 0.000000 seconds
+
+ processing video: 10335.mp4 ... Finished FFMPEG for vid 335 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10335.mp4 .... 
+
+Finished GEN_EVENT for vid 335 in 0.000000 seconds
+
+ processing video: 10336.mp4 ... Finished FFMPEG for vid 336 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10336.mp4 .... 
+
+Finished GEN_EVENT for vid 336 in 0.000000 seconds
+
+ processing video: 10337.mp4 ... Finished FFMPEG for vid 337 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10337.mp4 .... 
+
+Finished GEN_EVENT for vid 337 in 0.000000 seconds
+
+ processing video: 10338.mp4 ... Finished FFMPEG for vid 338 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10338.mp4 .... 
+
+Finished GEN_EVENT for vid 338 in 0.000000 seconds
+
+ processing video: 10339.mp4 ... Finished FFMPEG for vid 339 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10339.mp4 .... 
+
+Finished GEN_EVENT for vid 339 in 0.000000 seconds
+
+ processing video: 10340.mp4 ... Finished FFMPEG for vid 340 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10340.mp4 .... 
+
+Finished GEN_EVENT for vid 340 in 0.000000 seconds
+
+ processing video: 10341.mp4 ... Finished FFMPEG for vid 341 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10341.mp4 .... 
+
+Finished GEN_EVENT for vid 341 in 0.000000 seconds
+
+ processing video: 10342.mp4 ... Finished FFMPEG for vid 342 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10342.mp4 .... 
+
+Finished GEN_EVENT for vid 342 in 0.000000 seconds
+
+ processing video: 10343.mp4 ... Finished FFMPEG for vid 343 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10343.mp4 .... 
+
+Finished GEN_EVENT for vid 343 in 0.000000 seconds
+
+ processing video: 10344.mp4 ... Finished FFMPEG for vid 344 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10344.mp4 .... 
+
+Finished GEN_EVENT for vid 344 in 0.000000 seconds
+
+ processing video: 10345.mp4 ... Finished FFMPEG for vid 345 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10345.mp4 .... 
+
+Finished GEN_EVENT for vid 345 in 0.000000 seconds
+
+ processing video: 10346.mp4 ... Finished FFMPEG for vid 346 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10346.mp4 .... 
+
+Finished GEN_EVENT for vid 346 in 0.000000 seconds
+
+ processing video: 10347.mp4 ... Finished FFMPEG for vid 347 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10347.mp4 .... 
+
+Finished GEN_EVENT for vid 347 in 0.000000 seconds
+
+ processing video: 10348.mp4 ... Finished FFMPEG for vid 348 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10348.mp4 .... 
+
+Finished GEN_EVENT for vid 348 in 0.000000 seconds
+
+ processing video: 10349.mp4 ... Finished FFMPEG for vid 349 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10349.mp4 .... 
+
+Finished GEN_EVENT for vid 349 in 0.000000 seconds
+
+ processing video: 10350.mp4 ... Finished FFMPEG for vid 350 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10350.mp4 .... 
+
+Finished GEN_EVENT for vid 350 in 0.000000 seconds
+
+ processing video: 10351.mp4 ... Finished FFMPEG for vid 351 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10351.mp4 .... 
+
+Finished GEN_EVENT for vid 351 in 0.000000 seconds
+
+ processing video: 10352.mp4 ... Finished FFMPEG for vid 352 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10352.mp4 .... 
+
+Finished GEN_EVENT for vid 352 in 0.000000 seconds
+
+ processing video: 10353.mp4 ... Finished FFMPEG for vid 353 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10353.mp4 .... 
+
+Finished GEN_EVENT for vid 353 in 0.000000 seconds
+
+ processing video: 10354.mp4 ... Finished FFMPEG for vid 354 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10354.mp4 .... 
+
+Finished GEN_EVENT for vid 354 in 0.000000 seconds
+
+ processing video: 10355.mp4 ... Finished FFMPEG for vid 355 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10355.mp4 .... 
+
+Finished GEN_EVENT for vid 355 in 0.000000 seconds
+
+ processing video: 10356.mp4 ... Finished FFMPEG for vid 356 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10356.mp4 .... 
+
+Finished GEN_EVENT for vid 356 in 0.000000 seconds
+
+ processing video: 10357.mp4 ... Finished FFMPEG for vid 357 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10357.mp4 .... 
+
+Finished GEN_EVENT for vid 357 in 0.000000 seconds
+
+ processing video: 10358.mp4 ... Finished FFMPEG for vid 358 in 0.000000 seconds
+
+ Found 26 pictures in the ./tmp directory
+ Generating events successfully for 10358.mp4 .... 
+
+Finished GEN_EVENT for vid 358 in 0.000000 seconds
+
+ processing video: 10359.mp4 ... Finished FFMPEG for vid 359 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10359.mp4 .... 
+
+Finished GEN_EVENT for vid 359 in 0.000000 seconds
+
+ processing video: 10360.mp4 ... Finished FFMPEG for vid 360 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10360.mp4 .... 
+
+Finished GEN_EVENT for vid 360 in 0.000000 seconds
+
+ processing video: 10361.mp4 ... Finished FFMPEG for vid 361 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10361.mp4 .... 
+
+Finished GEN_EVENT for vid 361 in 0.000000 seconds
+
+ processing video: 10362.mp4 ... Finished FFMPEG for vid 362 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10362.mp4 .... 
+
+Finished GEN_EVENT for vid 362 in 0.000000 seconds
+
+ processing video: 10363.mp4 ... Finished FFMPEG for vid 363 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10363.mp4 .... 
+
+Finished GEN_EVENT for vid 363 in 0.000000 seconds
+
+ processing video: 10364.mp4 ... Finished FFMPEG for vid 364 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10364.mp4 .... 
+
+Finished GEN_EVENT for vid 364 in 0.000000 seconds
+
+ processing video: 10365.mp4 ... Finished FFMPEG for vid 365 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10365.mp4 .... 
+
+Finished GEN_EVENT for vid 365 in 0.000000 seconds
+
+ processing video: 10366.mp4 ... Finished FFMPEG for vid 366 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10366.mp4 .... 
+
+Finished GEN_EVENT for vid 366 in 0.000000 seconds
+
+ processing video: 10367.mp4 ... Finished FFMPEG for vid 367 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10367.mp4 .... 
+
+Finished GEN_EVENT for vid 367 in 0.000000 seconds
+
+ processing video: 10368.mp4 ... Finished FFMPEG for vid 368 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10368.mp4 .... 
+
+Finished GEN_EVENT for vid 368 in 0.000000 seconds
+
+ processing video: 10369.mp4 ... Finished FFMPEG for vid 369 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10369.mp4 .... 
+
+Finished GEN_EVENT for vid 369 in 0.000000 seconds
+
+ processing video: 10370.mp4 ... Finished FFMPEG for vid 370 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10370.mp4 .... 
+
+Finished GEN_EVENT for vid 370 in 0.000000 seconds
+
+ processing video: 10371.mp4 ... Finished FFMPEG for vid 371 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10371.mp4 .... 
+
+Finished GEN_EVENT for vid 371 in 0.000000 seconds
+
+ processing video: 10372.mp4 ... Finished FFMPEG for vid 372 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10372.mp4 .... 
+
+Finished GEN_EVENT for vid 372 in 0.000000 seconds
+
+ processing video: 10373.mp4 ... Finished FFMPEG for vid 373 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10373.mp4 .... 
+
+Finished GEN_EVENT for vid 373 in 0.000000 seconds
+
+ processing video: 10374.mp4 ... Finished FFMPEG for vid 374 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10374.mp4 .... 
+
+Finished GEN_EVENT for vid 374 in 0.000000 seconds
+
+ processing video: 10375.mp4 ... Finished FFMPEG for vid 375 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10375.mp4 .... 
+
+Finished GEN_EVENT for vid 375 in 0.000000 seconds
+
+ processing video: 10376.mp4 ... Finished FFMPEG for vid 376 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10376.mp4 .... 
+
+Finished GEN_EVENT for vid 376 in 0.000000 seconds
+
+ processing video: 10377.mp4 ... Finished FFMPEG for vid 377 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10377.mp4 .... 
+
+Finished GEN_EVENT for vid 377 in 0.000000 seconds
+
+ processing video: 10378.mp4 ... Finished FFMPEG for vid 378 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10378.mp4 .... 
+
+Finished GEN_EVENT for vid 378 in 0.000000 seconds
+
+ processing video: 10379.mp4 ... Finished FFMPEG for vid 379 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10379.mp4 .... 
+
+Finished GEN_EVENT for vid 379 in 0.000000 seconds
+
+ processing video: 10380.mp4 ... Finished FFMPEG for vid 380 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10380.mp4 .... 
+
+Finished GEN_EVENT for vid 380 in 0.000000 seconds
+
+ processing video: 10381.mp4 ... Finished FFMPEG for vid 381 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10381.mp4 .... 
+
+Finished GEN_EVENT for vid 381 in 0.000000 seconds
+
+ processing video: 10382.mp4 ... Finished FFMPEG for vid 382 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10382.mp4 .... 
+
+Finished GEN_EVENT for vid 382 in 0.000000 seconds
+
+ processing video: 10383.mp4 ... Finished FFMPEG for vid 383 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10383.mp4 .... 
+
+Finished GEN_EVENT for vid 383 in 0.000000 seconds
+
+ processing video: 10384.mp4 ... Finished FFMPEG for vid 384 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10384.mp4 .... 
+
+Finished GEN_EVENT for vid 384 in 0.000000 seconds
+
+ processing video: 10385.mp4 ... Finished FFMPEG for vid 385 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10385.mp4 .... 
+
+Finished GEN_EVENT for vid 385 in 0.000000 seconds
+
+ processing video: 10386.mp4 ... Finished FFMPEG for vid 386 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10386.mp4 .... 
+
+Finished GEN_EVENT for vid 386 in 0.000000 seconds
+
+ processing video: 10387.mp4 ... Finished FFMPEG for vid 387 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10387.mp4 .... 
+
+Finished GEN_EVENT for vid 387 in 0.000000 seconds
+
+ processing video: 10388.mp4 ... Finished FFMPEG for vid 388 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10388.mp4 .... 
+
+Finished GEN_EVENT for vid 388 in 0.000000 seconds
+
+ processing video: 10389.mp4 ... Finished FFMPEG for vid 389 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10389.mp4 .... 
+
+Finished GEN_EVENT for vid 389 in 0.000000 seconds
+
+ processing video: 10390.mp4 ... Finished FFMPEG for vid 390 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10390.mp4 .... 
+
+Finished GEN_EVENT for vid 390 in 0.000000 seconds
+
+ processing video: 10391.mp4 ... Finished FFMPEG for vid 391 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10391.mp4 .... 
+
+Finished GEN_EVENT for vid 391 in 0.000000 seconds
+
+ processing video: 10392.mp4 ... Finished FFMPEG for vid 392 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10392.mp4 .... 
+
+Finished GEN_EVENT for vid 392 in 0.000000 seconds
+
+ processing video: 10393.mp4 ... Finished FFMPEG for vid 393 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10393.mp4 .... 
+
+Finished GEN_EVENT for vid 393 in 0.000000 seconds
+
+ processing video: 10394.mp4 ... Finished FFMPEG for vid 394 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10394.mp4 .... 
+
+Finished GEN_EVENT for vid 394 in 0.000000 seconds
+
+ processing video: 10395.mp4 ... Finished FFMPEG for vid 395 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10395.mp4 .... 
+
+Finished GEN_EVENT for vid 395 in 0.000000 seconds
+
+ processing video: 10396.mp4 ... Finished FFMPEG for vid 396 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10396.mp4 .... 
+
+Finished GEN_EVENT for vid 396 in 0.000000 seconds
+
+ processing video: 10397.mp4 ... Finished FFMPEG for vid 397 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10397.mp4 .... 
+
+Finished GEN_EVENT for vid 397 in 0.000000 seconds
+
+ processing video: 10398.mp4 ... Finished FFMPEG for vid 398 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10398.mp4 .... 
+
+Finished GEN_EVENT for vid 398 in 0.000000 seconds
+
+ processing video: 10399.mp4 ... Finished FFMPEG for vid 399 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10399.mp4 .... 
+
+Finished GEN_EVENT for vid 399 in 0.000000 seconds
+
+ processing video: 10400.mp4 ... Finished FFMPEG for vid 400 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10400.mp4 .... 
+
+Finished GEN_EVENT for vid 400 in 0.000000 seconds
+
+ processing video: 10401.mp4 ... Finished FFMPEG for vid 401 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10401.mp4 .... 
+
+Finished GEN_EVENT for vid 401 in 0.000000 seconds
+
+ processing video: 10402.mp4 ... Finished FFMPEG for vid 402 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10402.mp4 .... 
+
+Finished GEN_EVENT for vid 402 in 0.000000 seconds
+
+ processing video: 10403.mp4 ... Finished FFMPEG for vid 403 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10403.mp4 .... 
+
+Finished GEN_EVENT for vid 403 in 0.000000 seconds
+
+ processing video: 10404.mp4 ... Finished FFMPEG for vid 404 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10404.mp4 .... 
+
+Finished GEN_EVENT for vid 404 in 0.000000 seconds
+
+ processing video: 10405.mp4 ... Finished FFMPEG for vid 405 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10405.mp4 .... 
+
+Finished GEN_EVENT for vid 405 in 0.000000 seconds
+
+ processing video: 10406.mp4 ... Finished FFMPEG for vid 406 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10406.mp4 .... 
+
+Finished GEN_EVENT for vid 406 in 0.000000 seconds
+
+ processing video: 10407.mp4 ... Finished FFMPEG for vid 407 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10407.mp4 .... 
+
+Finished GEN_EVENT for vid 407 in 0.000000 seconds
+
+ processing video: 10408.mp4 ... Finished FFMPEG for vid 408 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10408.mp4 .... 
+
+Finished GEN_EVENT for vid 408 in 0.000000 seconds
+
+ processing video: 10409.mp4 ... Finished FFMPEG for vid 409 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10409.mp4 .... 
+
+Finished GEN_EVENT for vid 409 in 0.000000 seconds
+
+ processing video: 10410.mp4 ... Finished FFMPEG for vid 410 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10410.mp4 .... 
+
+Finished GEN_EVENT for vid 410 in 0.000000 seconds
+
+ processing video: 10411.mp4 ... Finished FFMPEG for vid 411 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10411.mp4 .... 
+
+Finished GEN_EVENT for vid 411 in 0.000000 seconds
+
+ processing video: 10412.mp4 ... Finished FFMPEG for vid 412 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10412.mp4 .... 
+
+Finished GEN_EVENT for vid 412 in 0.000000 seconds
+
+ processing video: 10413.mp4 ... Finished FFMPEG for vid 413 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10413.mp4 .... 
+
+Finished GEN_EVENT for vid 413 in 0.000000 seconds
+
+ processing video: 10414.mp4 ... Finished FFMPEG for vid 414 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10414.mp4 .... 
+
+Finished GEN_EVENT for vid 414 in 0.000000 seconds
+
+ processing video: 10415.mp4 ... Finished FFMPEG for vid 415 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10415.mp4 .... 
+
+Finished GEN_EVENT for vid 415 in 0.000000 seconds
+
+ processing video: 10416.mp4 ... Finished FFMPEG for vid 416 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10416.mp4 .... 
+
+Finished GEN_EVENT for vid 416 in 0.000000 seconds
+
+ processing video: 10417.mp4 ... Finished FFMPEG for vid 417 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10417.mp4 .... 
+
+Finished GEN_EVENT for vid 417 in 0.000000 seconds
+
+ processing video: 10418.mp4 ... Finished FFMPEG for vid 418 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10418.mp4 .... 
+
+Finished GEN_EVENT for vid 418 in 0.000000 seconds
+
+ processing video: 10419.mp4 ... Finished FFMPEG for vid 419 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10419.mp4 .... 
+
+Finished GEN_EVENT for vid 419 in 0.000000 seconds
+
+ processing video: 10420.mp4 ... Finished FFMPEG for vid 420 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10420.mp4 .... 
+
+Finished GEN_EVENT for vid 420 in 0.000000 seconds
+
+ processing video: 10421.mp4 ... Finished FFMPEG for vid 421 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10421.mp4 .... 
+
+Finished GEN_EVENT for vid 421 in 0.000000 seconds
+
+ processing video: 10422.mp4 ... Finished FFMPEG for vid 422 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10422.mp4 .... 
+
+Finished GEN_EVENT for vid 422 in 0.000000 seconds
+
+ processing video: 10423.mp4 ... Finished FFMPEG for vid 423 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10423.mp4 .... 
+
+Finished GEN_EVENT for vid 423 in 0.000000 seconds
+
+ processing video: 10424.mp4 ... Finished FFMPEG for vid 424 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10424.mp4 .... 
+
+Finished GEN_EVENT for vid 424 in 0.000000 seconds
+
+ processing video: 10425.mp4 ... Finished FFMPEG for vid 425 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10425.mp4 .... 
+
+Finished GEN_EVENT for vid 425 in 0.000000 seconds
+
+ processing video: 10426.mp4 ... Finished FFMPEG for vid 426 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10426.mp4 .... 
+
+Finished GEN_EVENT for vid 426 in 0.000000 seconds
+
+ processing video: 10427.mp4 ... Finished FFMPEG for vid 427 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10427.mp4 .... 
+
+Finished GEN_EVENT for vid 427 in 0.000000 seconds
+
+ processing video: 10428.mp4 ... Finished FFMPEG for vid 428 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10428.mp4 .... 
+
+Finished GEN_EVENT for vid 428 in 0.000000 seconds
+
+ processing video: 10429.mp4 ... Finished FFMPEG for vid 429 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10429.mp4 .... 
+
+Finished GEN_EVENT for vid 429 in 0.000000 seconds
+
+ processing video: 10430.mp4 ... Finished FFMPEG for vid 430 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10430.mp4 .... 
+
+Finished GEN_EVENT for vid 430 in 0.000000 seconds
+
+ processing video: 10431.mp4 ... Finished FFMPEG for vid 431 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10431.mp4 .... 
+
+Finished GEN_EVENT for vid 431 in 0.000000 seconds
+
+ processing video: 10432.mp4 ... Finished FFMPEG for vid 432 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10432.mp4 .... 
+
+Finished GEN_EVENT for vid 432 in 0.000000 seconds
+
+ processing video: 10433.mp4 ... Finished FFMPEG for vid 433 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10433.mp4 .... 
+
+Finished GEN_EVENT for vid 433 in 0.000000 seconds
+
+ processing video: 10434.mp4 ... Finished FFMPEG for vid 434 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10434.mp4 .... 
+
+Finished GEN_EVENT for vid 434 in 0.000000 seconds
+
+ processing video: 10435.mp4 ... Finished FFMPEG for vid 435 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10435.mp4 .... 
+
+Finished GEN_EVENT for vid 435 in 0.000000 seconds
+
+ processing video: 10436.mp4 ... Finished FFMPEG for vid 436 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10436.mp4 .... 
+
+Finished GEN_EVENT for vid 436 in 0.000000 seconds
+
+ processing video: 10437.mp4 ... Finished FFMPEG for vid 437 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10437.mp4 .... 
+
+Finished GEN_EVENT for vid 437 in 0.000000 seconds
+
+ processing video: 10438.mp4 ... Finished FFMPEG for vid 438 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10438.mp4 .... 
+
+Finished GEN_EVENT for vid 438 in 0.000000 seconds
+
+ processing video: 10439.mp4 ... Finished FFMPEG for vid 439 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10439.mp4 .... 
+
+Finished GEN_EVENT for vid 439 in 0.000000 seconds
+
+ processing video: 10440.mp4 ... Finished FFMPEG for vid 440 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10440.mp4 .... 
+
+Finished GEN_EVENT for vid 440 in 0.000000 seconds
+
+ processing video: 10441.mp4 ... Finished FFMPEG for vid 441 in 0.000000 seconds
+
+ Found 27 pictures in the ./tmp directory
+ Generating events successfully for 10441.mp4 .... 
+
+Finished GEN_EVENT for vid 441 in 0.000000 seconds
+
+ processing video: 10442.mp4 ... Finished FFMPEG for vid 442 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10442.mp4 .... 
+
+Finished GEN_EVENT for vid 442 in 0.000000 seconds
+
+ processing video: 10443.mp4 ... Finished FFMPEG for vid 443 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10443.mp4 .... 
+
+Finished GEN_EVENT for vid 443 in 0.000000 seconds
+
+ processing video: 10444.mp4 ... Finished FFMPEG for vid 444 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10444.mp4 .... 
+
+Finished GEN_EVENT for vid 444 in 0.000000 seconds
+
+ processing video: 10445.mp4 ... Finished FFMPEG for vid 445 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10445.mp4 .... 
+
+Finished GEN_EVENT for vid 445 in 0.000000 seconds
+
+ processing video: 10446.mp4 ... Finished FFMPEG for vid 446 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10446.mp4 .... 
+
+Finished GEN_EVENT for vid 446 in 0.000000 seconds
+
+ processing video: 10447.mp4 ... Finished FFMPEG for vid 447 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10447.mp4 .... 
+
+Finished GEN_EVENT for vid 447 in 0.000000 seconds
+
+ processing video: 10448.mp4 ... Finished FFMPEG for vid 448 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10448.mp4 .... 
+
+Finished GEN_EVENT for vid 448 in 0.000000 seconds
+
+ processing video: 10449.mp4 ... Finished FFMPEG for vid 449 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10449.mp4 .... 
+
+Finished GEN_EVENT for vid 449 in 0.000000 seconds
+
+ processing video: 10450.mp4 ... Finished FFMPEG for vid 450 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10450.mp4 .... 
+
+Finished GEN_EVENT for vid 450 in 0.000000 seconds
+
+ processing video: 10451.mp4 ... Finished FFMPEG for vid 451 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10451.mp4 .... 
+
+Finished GEN_EVENT for vid 451 in 0.000000 seconds
+
+ processing video: 10452.mp4 ... Finished FFMPEG for vid 452 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10452.mp4 .... 
+
+Finished GEN_EVENT for vid 452 in 0.000000 seconds
+
+ processing video: 10453.mp4 ... Finished FFMPEG for vid 453 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10453.mp4 .... 
+
+Finished GEN_EVENT for vid 453 in 0.000000 seconds
+
+ processing video: 10454.mp4 ... Finished FFMPEG for vid 454 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10454.mp4 .... 
+
+Finished GEN_EVENT for vid 454 in 0.000000 seconds
+
+ processing video: 10455.mp4 ... Finished FFMPEG for vid 455 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10455.mp4 .... 
+
+Finished GEN_EVENT for vid 455 in 0.000000 seconds
+
+ processing video: 10456.mp4 ... Finished FFMPEG for vid 456 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10456.mp4 .... 
+
+Finished GEN_EVENT for vid 456 in 0.000000 seconds
+
+ processing video: 10457.mp4 ... Finished FFMPEG for vid 457 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10457.mp4 .... 
+
+Finished GEN_EVENT for vid 457 in 0.000000 seconds
+
+ processing video: 10458.mp4 ... Finished FFMPEG for vid 458 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10458.mp4 .... 
+
+Finished GEN_EVENT for vid 458 in 0.000000 seconds
+
+ processing video: 10459.mp4 ... Finished FFMPEG for vid 459 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10459.mp4 .... 
+
+Finished GEN_EVENT for vid 459 in 0.000000 seconds
+
+ processing video: 10460.mp4 ... Finished FFMPEG for vid 460 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10460.mp4 .... 
+
+Finished GEN_EVENT for vid 460 in 0.000000 seconds
+
+ processing video: 10461.mp4 ... Finished FFMPEG for vid 461 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10461.mp4 .... 
+
+Finished GEN_EVENT for vid 461 in 0.000000 seconds
+
+ processing video: 10462.mp4 ... Finished FFMPEG for vid 462 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10462.mp4 .... 
+
+Finished GEN_EVENT for vid 462 in 0.000000 seconds
+
+ processing video: 10463.mp4 ... Finished FFMPEG for vid 463 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10463.mp4 .... 
+
+Finished GEN_EVENT for vid 463 in 0.000000 seconds
+
+ processing video: 10464.mp4 ... Finished FFMPEG for vid 464 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10464.mp4 .... 
+
+Finished GEN_EVENT for vid 464 in 0.000000 seconds
+
+ processing video: 10465.mp4 ... Finished FFMPEG for vid 465 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10465.mp4 .... 
+
+Finished GEN_EVENT for vid 465 in 0.000000 seconds
+
+ processing video: 10466.mp4 ... Finished FFMPEG for vid 466 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10466.mp4 .... 
+
+Finished GEN_EVENT for vid 466 in 0.000000 seconds
+
+ processing video: 10467.mp4 ... Finished FFMPEG for vid 467 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10467.mp4 .... 
+
+Finished GEN_EVENT for vid 467 in 0.000000 seconds
+
+ processing video: 10468.mp4 ... Finished FFMPEG for vid 468 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10468.mp4 .... 
+
+Finished GEN_EVENT for vid 468 in 0.000000 seconds
+
+ processing video: 10469.mp4 ... Finished FFMPEG for vid 469 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10469.mp4 .... 
+
+Finished GEN_EVENT for vid 469 in 0.000000 seconds
+
+ processing video: 10470.mp4 ... Finished FFMPEG for vid 470 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10470.mp4 .... 
+
+Finished GEN_EVENT for vid 470 in 0.000000 seconds
+
+ processing video: 10471.mp4 ... Finished FFMPEG for vid 471 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10471.mp4 .... 
+
+Finished GEN_EVENT for vid 471 in 0.000000 seconds
+
+ processing video: 10472.mp4 ... Finished FFMPEG for vid 472 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10472.mp4 .... 
+
+Finished GEN_EVENT for vid 472 in 0.000000 seconds
+
+ processing video: 10473.mp4 ... Finished FFMPEG for vid 473 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10473.mp4 .... 
+
+Finished GEN_EVENT for vid 473 in 0.000000 seconds
+
+ processing video: 10474.mp4 ... Finished FFMPEG for vid 474 in 0.000000 seconds
+
+ Found 27 pictures in the ./tmp directory
+ Generating events successfully for 10474.mp4 .... 
+
+Finished GEN_EVENT for vid 474 in 0.000000 seconds
+
+ processing video: 10475.mp4 ... Finished FFMPEG for vid 475 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10475.mp4 .... 
+
+Finished GEN_EVENT for vid 475 in 0.000000 seconds
+
+ processing video: 10476.mp4 ... Finished FFMPEG for vid 476 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10476.mp4 .... 
+
+Finished GEN_EVENT for vid 476 in 0.000000 seconds
+
+ processing video: 10477.mp4 ... Finished FFMPEG for vid 477 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10477.mp4 .... 
+
+Finished GEN_EVENT for vid 477 in 0.000000 seconds
+
+ processing video: 10478.mp4 ... Finished FFMPEG for vid 478 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10478.mp4 .... 
+
+Finished GEN_EVENT for vid 478 in 0.000000 seconds
+
+ processing video: 10479.mp4 ... Finished FFMPEG for vid 479 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10479.mp4 .... 
+
+Finished GEN_EVENT for vid 479 in 0.000000 seconds
+
+ processing video: 10480.mp4 ... Finished FFMPEG for vid 480 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10480.mp4 .... 
+
+Finished GEN_EVENT for vid 480 in 0.000000 seconds
+
+ processing video: 10481.mp4 ... Finished FFMPEG for vid 481 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10481.mp4 .... 
+
+Finished GEN_EVENT for vid 481 in 0.000000 seconds
+
+ processing video: 10482.mp4 ... Finished FFMPEG for vid 482 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10482.mp4 .... 
+
+Finished GEN_EVENT for vid 482 in 0.000000 seconds
+
+ processing video: 10483.mp4 ... Finished FFMPEG for vid 483 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10483.mp4 .... 
+
+Finished GEN_EVENT for vid 483 in 0.000000 seconds
+
+ processing video: 10484.mp4 ... Finished FFMPEG for vid 484 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10484.mp4 .... 
+
+Finished GEN_EVENT for vid 484 in 0.000000 seconds
+
+ processing video: 10485.mp4 ... Finished FFMPEG for vid 485 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10485.mp4 .... 
+
+Finished GEN_EVENT for vid 485 in 0.000000 seconds
+
+ processing video: 10486.mp4 ... Finished FFMPEG for vid 486 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10486.mp4 .... 
+
+Finished GEN_EVENT for vid 486 in 0.000000 seconds
+
+ processing video: 10487.mp4 ... Finished FFMPEG for vid 487 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10487.mp4 .... 
+
+Finished GEN_EVENT for vid 487 in 0.000000 seconds
+
+ processing video: 10488.mp4 ... Finished FFMPEG for vid 488 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10488.mp4 .... 
+
+Finished GEN_EVENT for vid 488 in 0.000000 seconds
+
+ processing video: 10489.mp4 ... Finished FFMPEG for vid 489 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10489.mp4 .... 
+
+Finished GEN_EVENT for vid 489 in 0.000000 seconds
+
+ processing video: 10490.mp4 ... Finished FFMPEG for vid 490 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10490.mp4 .... 
+
+Finished GEN_EVENT for vid 490 in 0.000000 seconds
+
+ processing video: 10491.mp4 ... Finished FFMPEG for vid 491 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10491.mp4 .... 
+
+Finished GEN_EVENT for vid 491 in 0.000000 seconds
+
+ processing video: 10492.mp4 ... Finished FFMPEG for vid 492 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10492.mp4 .... 
+
+Finished GEN_EVENT for vid 492 in 0.000000 seconds
+
+ processing video: 10493.mp4 ... Finished FFMPEG for vid 493 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10493.mp4 .... 
+
+Finished GEN_EVENT for vid 493 in 0.000000 seconds
+
+ processing video: 10494.mp4 ... Finished FFMPEG for vid 494 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10494.mp4 .... 
+
+Finished GEN_EVENT for vid 494 in 0.000000 seconds
+
+ processing video: 10495.mp4 ... Finished FFMPEG for vid 495 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10495.mp4 .... 
+
+Finished GEN_EVENT for vid 495 in 0.000000 seconds
+
+ processing video: 10496.mp4 ... Finished FFMPEG for vid 496 in 0.000000 seconds
+
+ Found 19 pictures in the ./tmp directory
+ Generating events successfully for 10496.mp4 .... 
+
+Finished GEN_EVENT for vid 496 in 0.000000 seconds
+
+ processing video: 10497.mp4 ... Finished FFMPEG for vid 497 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10497.mp4 .... 
+
+Finished GEN_EVENT for vid 497 in 0.000000 seconds
+
+ processing video: 10498.mp4 ... Finished FFMPEG for vid 498 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10498.mp4 .... 
+
+Finished GEN_EVENT for vid 498 in 0.000000 seconds
+
+ processing video: 10499.mp4 ... Finished FFMPEG for vid 499 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10499.mp4 .... 
+
+Finished GEN_EVENT for vid 499 in 0.000000 seconds
+
+ processing video: 10500.mp4 ... Finished FFMPEG for vid 500 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10500.mp4 .... 
+
+Finished GEN_EVENT for vid 500 in 0.000000 seconds
+
+ processing video: 10501.mp4 ... Finished FFMPEG for vid 501 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10501.mp4 .... 
+
+Finished GEN_EVENT for vid 501 in 0.000000 seconds
+
+ processing video: 10502.mp4 ... Finished FFMPEG for vid 502 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10502.mp4 .... 
+
+Finished GEN_EVENT for vid 502 in 0.000000 seconds
+
+ processing video: 10503.mp4 ... Finished FFMPEG for vid 503 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10503.mp4 .... 
+
+Finished GEN_EVENT for vid 503 in 0.000000 seconds
+
+ processing video: 10504.mp4 ... Finished FFMPEG for vid 504 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10504.mp4 .... 
+
+Finished GEN_EVENT for vid 504 in 0.000000 seconds
+
+ processing video: 10505.mp4 ... Finished FFMPEG for vid 505 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10505.mp4 .... 
+
+Finished GEN_EVENT for vid 505 in 0.000000 seconds
+
+ processing video: 10506.mp4 ... Finished FFMPEG for vid 506 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10506.mp4 .... 
+
+Finished GEN_EVENT for vid 506 in 0.000000 seconds
+
+ processing video: 10507.mp4 ... Finished FFMPEG for vid 507 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10507.mp4 .... 
+
+Finished GEN_EVENT for vid 507 in 0.000000 seconds
+
+ processing video: 10508.mp4 ... Finished FFMPEG for vid 508 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10508.mp4 .... 
+
+Finished GEN_EVENT for vid 508 in 0.000000 seconds
+
+ processing video: 10509.mp4 ... Finished FFMPEG for vid 509 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10509.mp4 .... 
+
+Finished GEN_EVENT for vid 509 in 0.000000 seconds
+
+ processing video: 10510.mp4 ... Finished FFMPEG for vid 510 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10510.mp4 .... 
+
+Finished GEN_EVENT for vid 510 in 0.000000 seconds
+
+ processing video: 10511.mp4 ... Finished FFMPEG for vid 511 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10511.mp4 .... 
+
+Finished GEN_EVENT for vid 511 in 0.000000 seconds
+
+ processing video: 10512.mp4 ... Finished FFMPEG for vid 512 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10512.mp4 .... 
+
+Finished GEN_EVENT for vid 512 in 0.000000 seconds
+
+ processing video: 10513.mp4 ... Finished FFMPEG for vid 513 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10513.mp4 .... 
+
+Finished GEN_EVENT for vid 513 in 0.000000 seconds
+
+ processing video: 10514.mp4 ... Finished FFMPEG for vid 514 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10514.mp4 .... 
+
+Finished GEN_EVENT for vid 514 in 0.000000 seconds
+
+ processing video: 10515.mp4 ... Finished FFMPEG for vid 515 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10515.mp4 .... 
+
+Finished GEN_EVENT for vid 515 in 0.000000 seconds
+
+ processing video: 10516.mp4 ... Finished FFMPEG for vid 516 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10516.mp4 .... 
+
+Finished GEN_EVENT for vid 516 in 0.000000 seconds
+
+ processing video: 10517.mp4 ... Finished FFMPEG for vid 517 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10517.mp4 .... 
+
+Finished GEN_EVENT for vid 517 in 0.000000 seconds
+
+ processing video: 10518.mp4 ... Finished FFMPEG for vid 518 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10518.mp4 .... 
+
+Finished GEN_EVENT for vid 518 in 0.000000 seconds
+
+ processing video: 10519.mp4 ... Finished FFMPEG for vid 519 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10519.mp4 .... 
+
+Finished GEN_EVENT for vid 519 in 0.000000 seconds
+
+ processing video: 10520.mp4 ... Finished FFMPEG for vid 520 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10520.mp4 .... 
+
+Finished GEN_EVENT for vid 520 in 0.000000 seconds
+
+ processing video: 10521.mp4 ... Finished FFMPEG for vid 521 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10521.mp4 .... 
+
+Finished GEN_EVENT for vid 521 in 0.000000 seconds
+
+ processing video: 10522.mp4 ... Finished FFMPEG for vid 522 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10522.mp4 .... 
+
+Finished GEN_EVENT for vid 522 in 0.000000 seconds
+
+ processing video: 10523.mp4 ... Finished FFMPEG for vid 523 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10523.mp4 .... 
+
+Finished GEN_EVENT for vid 523 in 0.000000 seconds
+
+ processing video: 10524.mp4 ... Finished FFMPEG for vid 524 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10524.mp4 .... 
+
+Finished GEN_EVENT for vid 524 in 0.000000 seconds
+
+ processing video: 10525.mp4 ... Finished FFMPEG for vid 525 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10525.mp4 .... 
+
+Finished GEN_EVENT for vid 525 in 0.000000 seconds
+
+ processing video: 10526.mp4 ... Finished FFMPEG for vid 526 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10526.mp4 .... 
+
+Finished GEN_EVENT for vid 526 in 0.000000 seconds
+
+ processing video: 10527.mp4 ... Finished FFMPEG for vid 527 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10527.mp4 .... 
+
+Finished GEN_EVENT for vid 527 in 0.000000 seconds
+
+ processing video: 10528.mp4 ... Finished FFMPEG for vid 528 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10528.mp4 .... 
+
+Finished GEN_EVENT for vid 528 in 0.000000 seconds
+
+ processing video: 10529.mp4 ... Finished FFMPEG for vid 529 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10529.mp4 .... 
+
+Finished GEN_EVENT for vid 529 in 0.000000 seconds
+
+ processing video: 10530.mp4 ... Finished FFMPEG for vid 530 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10530.mp4 .... 
+
+Finished GEN_EVENT for vid 530 in 0.000000 seconds
+
+ processing video: 10531.mp4 ... Finished FFMPEG for vid 531 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10531.mp4 .... 
+
+Finished GEN_EVENT for vid 531 in 0.000000 seconds
+
+ processing video: 10532.mp4 ... Finished FFMPEG for vid 532 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10532.mp4 .... 
+
+Finished GEN_EVENT for vid 532 in 0.000000 seconds
+
+ processing video: 10533.mp4 ... Finished FFMPEG for vid 533 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10533.mp4 .... 
+
+Finished GEN_EVENT for vid 533 in 0.000000 seconds
+
+ processing video: 10534.mp4 ... Finished FFMPEG for vid 534 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10534.mp4 .... 
+
+Finished GEN_EVENT for vid 534 in 0.000000 seconds
+
+ processing video: 10535.mp4 ... Finished FFMPEG for vid 535 in 0.000000 seconds
+
+ Found 23 pictures in the ./tmp directory
+ Generating events successfully for 10535.mp4 .... 
+
+Finished GEN_EVENT for vid 535 in 0.000000 seconds
+
+ processing video: 10536.mp4 ... Finished FFMPEG for vid 536 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10536.mp4 .... 
+
+Finished GEN_EVENT for vid 536 in 0.000000 seconds
+
+ processing video: 10537.mp4 ... Finished FFMPEG for vid 537 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10537.mp4 .... 
+
+Finished GEN_EVENT for vid 537 in 0.000000 seconds
+
+ processing video: 10538.mp4 ... Finished FFMPEG for vid 538 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10538.mp4 .... 
+
+Finished GEN_EVENT for vid 538 in 0.000000 seconds
+
+ processing video: 10539.mp4 ... Finished FFMPEG for vid 539 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10539.mp4 .... 
+
+Finished GEN_EVENT for vid 539 in 0.000000 seconds
+
+ processing video: 10540.mp4 ... Finished FFMPEG for vid 540 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10540.mp4 .... 
+
+Finished GEN_EVENT for vid 540 in 0.000000 seconds
+
+ processing video: 10541.mp4 ... Finished FFMPEG for vid 541 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10541.mp4 .... 
+
+Finished GEN_EVENT for vid 541 in 0.000000 seconds
+
+ processing video: 10542.mp4 ... Finished FFMPEG for vid 542 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10542.mp4 .... 
+
+Finished GEN_EVENT for vid 542 in 0.000000 seconds
+
+ processing video: 10543.mp4 ... Finished FFMPEG for vid 543 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10543.mp4 .... 
+
+Finished GEN_EVENT for vid 543 in 0.000000 seconds
+
+ processing video: 10544.mp4 ... Finished FFMPEG for vid 544 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10544.mp4 .... 
+
+Finished GEN_EVENT for vid 544 in 0.000000 seconds
+
+ processing video: 10545.mp4 ... Finished FFMPEG for vid 545 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10545.mp4 .... 
+
+Finished GEN_EVENT for vid 545 in 0.000000 seconds
+
+ processing video: 10546.mp4 ... Finished FFMPEG for vid 546 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10546.mp4 .... 
+
+Finished GEN_EVENT for vid 546 in 0.000000 seconds
+
+ processing video: 10547.mp4 ... Finished FFMPEG for vid 547 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10547.mp4 .... 
+
+Finished GEN_EVENT for vid 547 in 0.000000 seconds
+
+ processing video: 10548.mp4 ... Finished FFMPEG for vid 548 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10548.mp4 .... 
+
+Finished GEN_EVENT for vid 548 in 0.000000 seconds
+
+ processing video: 10549.mp4 ... Finished FFMPEG for vid 549 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10549.mp4 .... 
+
+Finished GEN_EVENT for vid 549 in 0.000000 seconds
+
+ processing video: 10550.mp4 ... Finished FFMPEG for vid 550 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10550.mp4 .... 
+
+Finished GEN_EVENT for vid 550 in 0.000000 seconds
+
+ processing video: 10551.mp4 ... Finished FFMPEG for vid 551 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10551.mp4 .... 
+
+Finished GEN_EVENT for vid 551 in 0.000000 seconds
+
+ processing video: 10552.mp4 ... Finished FFMPEG for vid 552 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10552.mp4 .... 
+
+Finished GEN_EVENT for vid 552 in 0.000000 seconds
+
+ processing video: 10553.mp4 ... Finished FFMPEG for vid 553 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10553.mp4 .... 
+
+Finished GEN_EVENT for vid 553 in 0.000000 seconds
+
+ processing video: 10554.mp4 ... Finished FFMPEG for vid 554 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10554.mp4 .... 
+
+Finished GEN_EVENT for vid 554 in 0.000000 seconds
+
+ processing video: 10555.mp4 ... Finished FFMPEG for vid 555 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10555.mp4 .... 
+
+Finished GEN_EVENT for vid 555 in 0.000000 seconds
+
+ processing video: 10556.mp4 ... Finished FFMPEG for vid 556 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10556.mp4 .... 
+
+Finished GEN_EVENT for vid 556 in 0.000000 seconds
+
+ processing video: 10557.mp4 ... Finished FFMPEG for vid 557 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10557.mp4 .... 
+
+Finished GEN_EVENT for vid 557 in 0.000000 seconds
+
+ processing video: 10558.mp4 ... Finished FFMPEG for vid 558 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10558.mp4 .... 
+
+Finished GEN_EVENT for vid 558 in 0.000000 seconds
+
+ processing video: 10559.mp4 ... Finished FFMPEG for vid 559 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10559.mp4 .... 
+
+Finished GEN_EVENT for vid 559 in 0.000000 seconds
+
+ processing video: 10560.mp4 ... Finished FFMPEG for vid 560 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10560.mp4 .... 
+
+Finished GEN_EVENT for vid 560 in 0.000000 seconds
+
+ processing video: 10561.mp4 ... Finished FFMPEG for vid 561 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10561.mp4 .... 
+
+Finished GEN_EVENT for vid 561 in 0.000000 seconds
+
+ processing video: 10562.mp4 ... Finished FFMPEG for vid 562 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10562.mp4 .... 
+
+Finished GEN_EVENT for vid 562 in 0.000000 seconds
+
+ processing video: 10563.mp4 ... Finished FFMPEG for vid 563 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10563.mp4 .... 
+
+Finished GEN_EVENT for vid 563 in 0.000000 seconds
+
+ processing video: 10564.mp4 ... Finished FFMPEG for vid 564 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10564.mp4 .... 
+
+Finished GEN_EVENT for vid 564 in 0.000000 seconds
+
+ processing video: 10565.mp4 ... Finished FFMPEG for vid 565 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10565.mp4 .... 
+
+Finished GEN_EVENT for vid 565 in 0.000000 seconds
+
+ processing video: 10566.mp4 ... Finished FFMPEG for vid 566 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10566.mp4 .... 
+
+Finished GEN_EVENT for vid 566 in 0.000000 seconds
+
+ processing video: 10567.mp4 ... Finished FFMPEG for vid 567 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10567.mp4 .... 
+
+Finished GEN_EVENT for vid 567 in 0.000000 seconds
+
+ processing video: 10568.mp4 ... Finished FFMPEG for vid 568 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10568.mp4 .... 
+
+Finished GEN_EVENT for vid 568 in 0.000000 seconds
+
+ processing video: 10569.mp4 ... Finished FFMPEG for vid 569 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10569.mp4 .... 
+
+Finished GEN_EVENT for vid 569 in 0.000000 seconds
+
+ processing video: 10570.mp4 ... Finished FFMPEG for vid 570 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10570.mp4 .... 
+
+Finished GEN_EVENT for vid 570 in 0.000000 seconds
+
+ processing video: 10571.mp4 ... Finished FFMPEG for vid 571 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10571.mp4 .... 
+
+Finished GEN_EVENT for vid 571 in 0.000000 seconds
+
+ processing video: 10572.mp4 ... Finished FFMPEG for vid 572 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10572.mp4 .... 
+
+Finished GEN_EVENT for vid 572 in 0.000000 seconds
+
+ processing video: 10573.mp4 ... Finished FFMPEG for vid 573 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10573.mp4 .... 
+
+Finished GEN_EVENT for vid 573 in 0.000000 seconds
+
+ processing video: 10574.mp4 ... Finished FFMPEG for vid 574 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10574.mp4 .... 
+
+Finished GEN_EVENT for vid 574 in 0.000000 seconds
+
+ processing video: 10575.mp4 ... Finished FFMPEG for vid 575 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10575.mp4 .... 
+
+Finished GEN_EVENT for vid 575 in 0.000000 seconds
+
+ processing video: 10576.mp4 ... Finished FFMPEG for vid 576 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10576.mp4 .... 
+
+Finished GEN_EVENT for vid 576 in 0.000000 seconds
+
+ processing video: 10577.mp4 ... Finished FFMPEG for vid 577 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10577.mp4 .... 
+
+Finished GEN_EVENT for vid 577 in 0.000000 seconds
+
+ processing video: 10578.mp4 ... Finished FFMPEG for vid 578 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10578.mp4 .... 
+
+Finished GEN_EVENT for vid 578 in 0.000000 seconds
+
+ processing video: 10579.mp4 ... Finished FFMPEG for vid 579 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10579.mp4 .... 
+
+Finished GEN_EVENT for vid 579 in 0.000000 seconds
+
+ processing video: 10580.mp4 ... Finished FFMPEG for vid 580 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10580.mp4 .... 
+
+Finished GEN_EVENT for vid 580 in 0.000000 seconds
+
+ processing video: 10581.mp4 ... Finished FFMPEG for vid 581 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10581.mp4 .... 
+
+Finished GEN_EVENT for vid 581 in 0.000000 seconds
+
+ processing video: 10582.mp4 ... Finished FFMPEG for vid 582 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10582.mp4 .... 
+
+Finished GEN_EVENT for vid 582 in 0.000000 seconds
+
+ processing video: 10583.mp4 ... Finished FFMPEG for vid 583 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10583.mp4 .... 
+
+Finished GEN_EVENT for vid 583 in 0.000000 seconds
+
+ processing video: 10584.mp4 ... Finished FFMPEG for vid 584 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10584.mp4 .... 
+
+Finished GEN_EVENT for vid 584 in 0.000000 seconds
+
+ processing video: 10585.mp4 ... Finished FFMPEG for vid 585 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10585.mp4 .... 
+
+Finished GEN_EVENT for vid 585 in 0.000000 seconds
+
+ processing video: 10586.mp4 ... Finished FFMPEG for vid 586 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10586.mp4 .... 
+
+Finished GEN_EVENT for vid 586 in 0.000000 seconds
+
+ processing video: 10587.mp4 ... Finished FFMPEG for vid 587 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10587.mp4 .... 
+
+Finished GEN_EVENT for vid 587 in 0.000000 seconds
+
+ processing video: 10588.mp4 ... Finished FFMPEG for vid 588 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10588.mp4 .... 
+
+Finished GEN_EVENT for vid 588 in 0.000000 seconds
+
+ processing video: 10589.mp4 ... Finished FFMPEG for vid 589 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10589.mp4 .... 
+
+Finished GEN_EVENT for vid 589 in 0.000000 seconds
+
+ processing video: 10590.mp4 ... Finished FFMPEG for vid 590 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10590.mp4 .... 
+
+Finished GEN_EVENT for vid 590 in 0.000000 seconds
+
+ processing video: 10591.mp4 ... Finished FFMPEG for vid 591 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10591.mp4 .... 
+
+Finished GEN_EVENT for vid 591 in 0.000000 seconds
+
+ processing video: 10592.mp4 ... Finished FFMPEG for vid 592 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10592.mp4 .... 
+
+Finished GEN_EVENT for vid 592 in 0.000000 seconds
+
+ processing video: 10593.mp4 ... Finished FFMPEG for vid 593 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10593.mp4 .... 
+
+Finished GEN_EVENT for vid 593 in 0.000000 seconds
+
+ processing video: 10594.mp4 ... Finished FFMPEG for vid 594 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10594.mp4 .... 
+
+Finished GEN_EVENT for vid 594 in 0.000000 seconds
+
+ processing video: 10595.mp4 ... Finished FFMPEG for vid 595 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10595.mp4 .... 
+
+Finished GEN_EVENT for vid 595 in 0.000000 seconds
+
+ processing video: 10596.mp4 ... Finished FFMPEG for vid 596 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10596.mp4 .... 
+
+Finished GEN_EVENT for vid 596 in 0.000000 seconds
+
+ processing video: 10597.mp4 ... Finished FFMPEG for vid 597 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10597.mp4 .... 
+
+Finished GEN_EVENT for vid 597 in 0.000000 seconds
+
+ processing video: 10598.mp4 ... Finished FFMPEG for vid 598 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10598.mp4 .... 
+
+Finished GEN_EVENT for vid 598 in 0.000000 seconds
+
+ processing video: 10599.mp4 ... Finished FFMPEG for vid 599 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10599.mp4 .... 
+
+Finished GEN_EVENT for vid 599 in 0.000000 seconds
+
+ processing video: 10600.mp4 ... Finished FFMPEG for vid 600 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10600.mp4 .... 
+
+Finished GEN_EVENT for vid 600 in 0.000000 seconds
+
+ processing video: 10601.mp4 ... Finished FFMPEG for vid 601 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10601.mp4 .... 
+
+Finished GEN_EVENT for vid 601 in 0.000000 seconds
+
+ processing video: 10602.mp4 ... Finished FFMPEG for vid 602 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10602.mp4 .... 
+
+Finished GEN_EVENT for vid 602 in 0.000000 seconds
+
+ processing video: 10603.mp4 ... Finished FFMPEG for vid 603 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10603.mp4 .... 
+
+Finished GEN_EVENT for vid 603 in 0.000000 seconds
+
+ processing video: 10604.mp4 ... Finished FFMPEG for vid 604 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10604.mp4 .... 
+
+Finished GEN_EVENT for vid 604 in 0.000000 seconds
+
+ processing video: 10605.mp4 ... Finished FFMPEG for vid 605 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10605.mp4 .... 
+
+Finished GEN_EVENT for vid 605 in 0.000000 seconds
+
+ processing video: 10606.mp4 ... Finished FFMPEG for vid 606 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10606.mp4 .... 
+
+Finished GEN_EVENT for vid 606 in 0.000000 seconds
+
+ processing video: 10607.mp4 ... Finished FFMPEG for vid 607 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10607.mp4 .... 
+
+Finished GEN_EVENT for vid 607 in 0.000000 seconds
+
+ processing video: 10608.mp4 ... Finished FFMPEG for vid 608 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10608.mp4 .... 
+
+Finished GEN_EVENT for vid 608 in 0.000000 seconds
+
+ processing video: 10609.mp4 ... Finished FFMPEG for vid 609 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10609.mp4 .... 
+
+Finished GEN_EVENT for vid 609 in 0.000000 seconds
+
+ processing video: 10610.mp4 ... Finished FFMPEG for vid 610 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10610.mp4 .... 
+
+Finished GEN_EVENT for vid 610 in 0.000000 seconds
+
+ processing video: 10611.mp4 ... Finished FFMPEG for vid 611 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10611.mp4 .... 
+
+Finished GEN_EVENT for vid 611 in 0.000000 seconds
+
+ processing video: 10612.mp4 ... Finished FFMPEG for vid 612 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10612.mp4 .... 
+
+Finished GEN_EVENT for vid 612 in 0.000000 seconds
+
+ processing video: 10613.mp4 ... Finished FFMPEG for vid 613 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10613.mp4 .... 
+
+Finished GEN_EVENT for vid 613 in 0.000000 seconds
+
+ processing video: 10614.mp4 ... Finished FFMPEG for vid 614 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10614.mp4 .... 
+
+Finished GEN_EVENT for vid 614 in 0.000000 seconds
+
+ processing video: 10615.mp4 ... Finished FFMPEG for vid 615 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10615.mp4 .... 
+
+Finished GEN_EVENT for vid 615 in 0.000000 seconds
+
+ processing video: 10616.mp4 ... Finished FFMPEG for vid 616 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10616.mp4 .... 
+
+Finished GEN_EVENT for vid 616 in 0.000000 seconds
+
+ processing video: 10617.mp4 ... Finished FFMPEG for vid 617 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10617.mp4 .... 
+
+Finished GEN_EVENT for vid 617 in 0.000000 seconds
+
+ processing video: 10618.mp4 ... Finished FFMPEG for vid 618 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10618.mp4 .... 
+
+Finished GEN_EVENT for vid 618 in 0.000000 seconds
+
+ processing video: 10619.mp4 ... Finished FFMPEG for vid 619 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10619.mp4 .... 
+
+Finished GEN_EVENT for vid 619 in 0.000000 seconds
+
+ processing video: 10620.mp4 ... Finished FFMPEG for vid 620 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10620.mp4 .... 
+
+Finished GEN_EVENT for vid 620 in 0.000000 seconds
+
+ processing video: 10621.mp4 ... Finished FFMPEG for vid 621 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10621.mp4 .... 
+
+Finished GEN_EVENT for vid 621 in 0.000000 seconds
+
+ processing video: 10622.mp4 ... Finished FFMPEG for vid 622 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10622.mp4 .... 
+
+Finished GEN_EVENT for vid 622 in 0.000000 seconds
+
+ processing video: 10623.mp4 ... Finished FFMPEG for vid 623 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10623.mp4 .... 
+
+Finished GEN_EVENT for vid 623 in 0.000000 seconds
+
+ processing video: 10624.mp4 ... Finished FFMPEG for vid 624 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10624.mp4 .... 
+
+Finished GEN_EVENT for vid 624 in 0.000000 seconds
+
+ processing video: 10625.mp4 ... Finished FFMPEG for vid 625 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10625.mp4 .... 
+
+Finished GEN_EVENT for vid 625 in 0.000000 seconds
+
+ processing video: 10626.mp4 ... Finished FFMPEG for vid 626 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10626.mp4 .... 
+
+Finished GEN_EVENT for vid 626 in 0.000000 seconds
+
+ processing video: 10627.mp4 ... Finished FFMPEG for vid 627 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10627.mp4 .... 
+
+Finished GEN_EVENT for vid 627 in 0.000000 seconds
+
+ processing video: 10628.mp4 ... Finished FFMPEG for vid 628 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10628.mp4 .... 
+
+Finished GEN_EVENT for vid 628 in 0.000000 seconds
+
+ processing video: 10629.mp4 ... Finished FFMPEG for vid 629 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10629.mp4 .... 
+
+Finished GEN_EVENT for vid 629 in 0.000000 seconds
+
+ processing video: 10630.mp4 ... Finished FFMPEG for vid 630 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10630.mp4 .... 
+
+Finished GEN_EVENT for vid 630 in 0.000000 seconds
+
+ processing video: 10631.mp4 ... Finished FFMPEG for vid 631 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10631.mp4 .... 
+
+Finished GEN_EVENT for vid 631 in 0.000000 seconds
+
+ processing video: 10632.mp4 ... Finished FFMPEG for vid 632 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10632.mp4 .... 
+
+Finished GEN_EVENT for vid 632 in 0.000000 seconds
+
+ processing video: 10633.mp4 ... Finished FFMPEG for vid 633 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10633.mp4 .... 
+
+Finished GEN_EVENT for vid 633 in 0.000000 seconds
+
+ processing video: 10634.mp4 ... Finished FFMPEG for vid 634 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10634.mp4 .... 
+
+Finished GEN_EVENT for vid 634 in 0.000000 seconds
+
+ processing video: 10635.mp4 ... Finished FFMPEG for vid 635 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10635.mp4 .... 
+
+Finished GEN_EVENT for vid 635 in 0.000000 seconds
+
+ processing video: 10636.mp4 ... Finished FFMPEG for vid 636 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10636.mp4 .... 
+
+Finished GEN_EVENT for vid 636 in 0.000000 seconds
+
+ processing video: 10637.mp4 ... Finished FFMPEG for vid 637 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10637.mp4 .... 
+
+Finished GEN_EVENT for vid 637 in 0.000000 seconds
+
+ processing video: 10638.mp4 ... Finished FFMPEG for vid 638 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10638.mp4 .... 
+
+Finished GEN_EVENT for vid 638 in 0.000000 seconds
+
+ processing video: 10639.mp4 ... Finished FFMPEG for vid 639 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10639.mp4 .... 
+
+Finished GEN_EVENT for vid 639 in 0.000000 seconds
+
+ processing video: 10640.mp4 ... Finished FFMPEG for vid 640 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10640.mp4 .... 
+
+Finished GEN_EVENT for vid 640 in 0.000000 seconds
+
+ processing video: 10641.mp4 ... Finished FFMPEG for vid 641 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10641.mp4 .... 
+
+Finished GEN_EVENT for vid 641 in 0.000000 seconds
+
+ processing video: 10642.mp4 ... Finished FFMPEG for vid 642 in 0.000000 seconds
+
+ Found 30 pictures in the ./tmp directory
+ Generating events successfully for 10642.mp4 .... 
+
+Finished GEN_EVENT for vid 642 in 0.000000 seconds
+
+ processing video: 10643.mp4 ... Finished FFMPEG for vid 643 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10643.mp4 .... 
+
+Finished GEN_EVENT for vid 643 in 0.000000 seconds
+
+ processing video: 10644.mp4 ... Finished FFMPEG for vid 644 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10644.mp4 .... 
+
+Finished GEN_EVENT for vid 644 in 0.000000 seconds
+
+ processing video: 10645.mp4 ... Finished FFMPEG for vid 645 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10645.mp4 .... 
+
+Finished GEN_EVENT for vid 645 in 0.000000 seconds
+
+ processing video: 10646.mp4 ... Finished FFMPEG for vid 646 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10646.mp4 .... 
+
+Finished GEN_EVENT for vid 646 in 0.000000 seconds
+
+ processing video: 10647.mp4 ... Finished FFMPEG for vid 647 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10647.mp4 .... 
+
+Finished GEN_EVENT for vid 647 in 0.000000 seconds
+
+ processing video: 10648.mp4 ... Finished FFMPEG for vid 648 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10648.mp4 .... 
+
+Finished GEN_EVENT for vid 648 in 0.000000 seconds
+
+ processing video: 10649.mp4 ... Finished FFMPEG for vid 649 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10649.mp4 .... 
+
+Finished GEN_EVENT for vid 649 in 0.000000 seconds
+
+ processing video: 10650.mp4 ... Finished FFMPEG for vid 650 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10650.mp4 .... 
+
+Finished GEN_EVENT for vid 650 in 0.000000 seconds
+
+ processing video: 10651.mp4 ... Finished FFMPEG for vid 651 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10651.mp4 .... 
+
+Finished GEN_EVENT for vid 651 in 0.000000 seconds
+
+ processing video: 10652.mp4 ... Finished FFMPEG for vid 652 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10652.mp4 .... 
+
+Finished GEN_EVENT for vid 652 in 0.000000 seconds
+
+ processing video: 10653.mp4 ... Finished FFMPEG for vid 653 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10653.mp4 .... 
+
+Finished GEN_EVENT for vid 653 in 0.000000 seconds
+
+ processing video: 10654.mp4 ... Finished FFMPEG for vid 654 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10654.mp4 .... 
+
+Finished GEN_EVENT for vid 654 in 0.000000 seconds
+
+ processing video: 10655.mp4 ... Finished FFMPEG for vid 655 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10655.mp4 .... 
+
+Finished GEN_EVENT for vid 655 in 0.000000 seconds
+
+ processing video: 10656.mp4 ... Finished FFMPEG for vid 656 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10656.mp4 .... 
+
+Finished GEN_EVENT for vid 656 in 0.000000 seconds
+
+ processing video: 10657.mp4 ... Finished FFMPEG for vid 657 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10657.mp4 .... 
+
+Finished GEN_EVENT for vid 657 in 0.000000 seconds
+
+ processing video: 10658.mp4 ... Finished FFMPEG for vid 658 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10658.mp4 .... 
+
+Finished GEN_EVENT for vid 658 in 0.000000 seconds
+
+ processing video: 10659.mp4 ... Finished FFMPEG for vid 659 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10659.mp4 .... 
+
+Finished GEN_EVENT for vid 659 in 0.000000 seconds
+
+ processing video: 10660.mp4 ... Finished FFMPEG for vid 660 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10660.mp4 .... 
+
+Finished GEN_EVENT for vid 660 in 0.000000 seconds
+
+ processing video: 10661.mp4 ... Finished FFMPEG for vid 661 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10661.mp4 .... 
+
+Finished GEN_EVENT for vid 661 in 0.000000 seconds
+
+ processing video: 10662.mp4 ... Finished FFMPEG for vid 662 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10662.mp4 .... 
+
+Finished GEN_EVENT for vid 662 in 0.000000 seconds
+
+ processing video: 10663.mp4 ... Finished FFMPEG for vid 663 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10663.mp4 .... 
+
+Finished GEN_EVENT for vid 663 in 0.000000 seconds
+
+ processing video: 10664.mp4 ... Finished FFMPEG for vid 664 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10664.mp4 .... 
+
+Finished GEN_EVENT for vid 664 in 0.000000 seconds
+
+ processing video: 10665.mp4 ... Finished FFMPEG for vid 665 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10665.mp4 .... 
+
+Finished GEN_EVENT for vid 665 in 0.000000 seconds
+
+ processing video: 10666.mp4 ... Finished FFMPEG for vid 666 in 0.000000 seconds
+
+ Found 20 pictures in the ./tmp directory
+ Generating events successfully for 10666.mp4 .... 
+
+Finished GEN_EVENT for vid 666 in 0.000000 seconds
+
+ processing video: 10667.mp4 ... Finished FFMPEG for vid 667 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10667.mp4 .... 
+
+Finished GEN_EVENT for vid 667 in 0.000000 seconds
+
+ processing video: 10668.mp4 ... Finished FFMPEG for vid 668 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10668.mp4 .... 
+
+Finished GEN_EVENT for vid 668 in 0.000000 seconds
+
+ processing video: 10669.mp4 ... Finished FFMPEG for vid 669 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10669.mp4 .... 
+
+Finished GEN_EVENT for vid 669 in 0.000000 seconds
+
+ processing video: 10670.mp4 ... Finished FFMPEG for vid 670 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10670.mp4 .... 
+
+Finished GEN_EVENT for vid 670 in 0.000000 seconds
+
+ processing video: 10671.mp4 ... Finished FFMPEG for vid 671 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10671.mp4 .... 
+
+Finished GEN_EVENT for vid 671 in 0.000000 seconds
+
+ processing video: 10672.mp4 ... Finished FFMPEG for vid 672 in 0.000000 seconds
+
+ Found 38 pictures in the ./tmp directory
+ Generating events successfully for 10672.mp4 .... 
+
+Finished GEN_EVENT for vid 672 in 0.000000 seconds
+
+ processing video: 10673.mp4 ... Finished FFMPEG for vid 673 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10673.mp4 .... 
+
+Finished GEN_EVENT for vid 673 in 0.000000 seconds
+
+ processing video: 10674.mp4 ... Finished FFMPEG for vid 674 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10674.mp4 .... 
+
+Finished GEN_EVENT for vid 674 in 0.000000 seconds
+
+ processing video: 10675.mp4 ... Finished FFMPEG for vid 675 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10675.mp4 .... 
+
+Finished GEN_EVENT for vid 675 in 0.000000 seconds
+
+ processing video: 10676.mp4 ... Finished FFMPEG for vid 676 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10676.mp4 .... 
+
+Finished GEN_EVENT for vid 676 in 0.000000 seconds
+
+ processing video: 10677.mp4 ... Finished FFMPEG for vid 677 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10677.mp4 .... 
+
+Finished GEN_EVENT for vid 677 in 0.000000 seconds
+
+ processing video: 10678.mp4 ... Finished FFMPEG for vid 678 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10678.mp4 .... 
+
+Finished GEN_EVENT for vid 678 in 0.000000 seconds
+
+ processing video: 10679.mp4 ... Finished FFMPEG for vid 679 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10679.mp4 .... 
+
+Finished GEN_EVENT for vid 679 in 0.000000 seconds
+
+ processing video: 10680.mp4 ... Finished FFMPEG for vid 680 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10680.mp4 .... 
+
+Finished GEN_EVENT for vid 680 in 0.000000 seconds
+
+ processing video: 10681.mp4 ... Finished FFMPEG for vid 681 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10681.mp4 .... 
+
+Finished GEN_EVENT for vid 681 in 0.000000 seconds
+
+ processing video: 10682.mp4 ... Finished FFMPEG for vid 682 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10682.mp4 .... 
+
+Finished GEN_EVENT for vid 682 in 0.000000 seconds
+
+ processing video: 10683.mp4 ... Finished FFMPEG for vid 683 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10683.mp4 .... 
+
+Finished GEN_EVENT for vid 683 in 0.000000 seconds
+
+ processing video: 10684.mp4 ... Finished FFMPEG for vid 684 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10684.mp4 .... 
+
+Finished GEN_EVENT for vid 684 in 0.000000 seconds
+
+ processing video: 10685.mp4 ... Finished FFMPEG for vid 685 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10685.mp4 .... 
+
+Finished GEN_EVENT for vid 685 in 0.000000 seconds
+
+ processing video: 10686.mp4 ... Finished FFMPEG for vid 686 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10686.mp4 .... 
+
+Finished GEN_EVENT for vid 686 in 0.000000 seconds
+
+ processing video: 10687.mp4 ... Finished FFMPEG for vid 687 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10687.mp4 .... 
+
+Finished GEN_EVENT for vid 687 in 0.000000 seconds
+
+ processing video: 10688.mp4 ... Finished FFMPEG for vid 688 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10688.mp4 .... 
+
+Finished GEN_EVENT for vid 688 in 0.000000 seconds
+
+ processing video: 10689.mp4 ... Finished FFMPEG for vid 689 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10689.mp4 .... 
+
+Finished GEN_EVENT for vid 689 in 0.000000 seconds
+
+ processing video: 10690.mp4 ... Finished FFMPEG for vid 690 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10690.mp4 .... 
+
+Finished GEN_EVENT for vid 690 in 0.000000 seconds
+
+ processing video: 10691.mp4 ... Finished FFMPEG for vid 691 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10691.mp4 .... 
+
+Finished GEN_EVENT for vid 691 in 0.000000 seconds
+
+ processing video: 10692.mp4 ... Finished FFMPEG for vid 692 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10692.mp4 .... 
+
+Finished GEN_EVENT for vid 692 in 0.000000 seconds
+
+ processing video: 10693.mp4 ... Finished FFMPEG for vid 693 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10693.mp4 .... 
+
+Finished GEN_EVENT for vid 693 in 0.000000 seconds
+
+ processing video: 10694.mp4 ... Finished FFMPEG for vid 694 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10694.mp4 .... 
+
+Finished GEN_EVENT for vid 694 in 0.000000 seconds
+
+ processing video: 10695.mp4 ... Finished FFMPEG for vid 695 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10695.mp4 .... 
+
+Finished GEN_EVENT for vid 695 in 0.000000 seconds
+
+ processing video: 10696.mp4 ... Finished FFMPEG for vid 696 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10696.mp4 .... 
+
+Finished GEN_EVENT for vid 696 in 0.000000 seconds
+
+ processing video: 10697.mp4 ... Finished FFMPEG for vid 697 in 0.000000 seconds
+
+ Found 29 pictures in the ./tmp directory
+ Generating events successfully for 10697.mp4 .... 
+
+Finished GEN_EVENT for vid 697 in 0.000000 seconds
+
+ processing video: 10698.mp4 ... Finished FFMPEG for vid 698 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10698.mp4 .... 
+
+Finished GEN_EVENT for vid 698 in 0.000000 seconds
+
+ processing video: 10699.mp4 ... Finished FFMPEG for vid 699 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10699.mp4 .... 
+
+Finished GEN_EVENT for vid 699 in 0.000000 seconds
+
+ processing video: 10700.mp4 ... Finished FFMPEG for vid 700 in 0.000000 seconds
+
+ Found 40 pictures in the ./tmp directory
+ Generating events successfully for 10700.mp4 .... 
+
+Finished GEN_EVENT for vid 700 in 0.000000 seconds
+
+ processing video: 10701.mp4 ... Finished FFMPEG for vid 701 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10701.mp4 .... 
+
+Finished GEN_EVENT for vid 701 in 0.000000 seconds
+
+ processing video: 10702.mp4 ... Finished FFMPEG for vid 702 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10702.mp4 .... 
+
+Finished GEN_EVENT for vid 702 in 0.000000 seconds
+
+ processing video: 10703.mp4 ... Finished FFMPEG for vid 703 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10703.mp4 .... 
+
+Finished GEN_EVENT for vid 703 in 0.000000 seconds
+
+ processing video: 10704.mp4 ... Finished FFMPEG for vid 704 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10704.mp4 .... 
+
+Finished GEN_EVENT for vid 704 in 0.000000 seconds
+
+ processing video: 10705.mp4 ... Finished FFMPEG for vid 705 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10705.mp4 .... 
+
+Finished GEN_EVENT for vid 705 in 0.000000 seconds
+
+ processing video: 10706.mp4 ... Finished FFMPEG for vid 706 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10706.mp4 .... 
+
+Finished GEN_EVENT for vid 706 in 0.000000 seconds
+
+ processing video: 10707.mp4 ... Finished FFMPEG for vid 707 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10707.mp4 .... 
+
+Finished GEN_EVENT for vid 707 in 0.000000 seconds
+
+ processing video: 10708.mp4 ... Finished FFMPEG for vid 708 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10708.mp4 .... 
+
+Finished GEN_EVENT for vid 708 in 0.000000 seconds
+
+ processing video: 10709.mp4 ... Finished FFMPEG for vid 709 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10709.mp4 .... 
+
+Finished GEN_EVENT for vid 709 in 0.000000 seconds
+
+ processing video: 10710.mp4 ... Finished FFMPEG for vid 710 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10710.mp4 .... 
+
+Finished GEN_EVENT for vid 710 in 0.000000 seconds
+
+ processing video: 10711.mp4 ... Finished FFMPEG for vid 711 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10711.mp4 .... 
+
+Finished GEN_EVENT for vid 711 in 0.000000 seconds
+
+ processing video: 10712.mp4 ... Finished FFMPEG for vid 712 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10712.mp4 .... 
+
+Finished GEN_EVENT for vid 712 in 0.000000 seconds
+
+ processing video: 10713.mp4 ... Finished FFMPEG for vid 713 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10713.mp4 .... 
+
+Finished GEN_EVENT for vid 713 in 0.000000 seconds
+
+ processing video: 10714.mp4 ... Finished FFMPEG for vid 714 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10714.mp4 .... 
+
+Finished GEN_EVENT for vid 714 in 0.000000 seconds
+
+ processing video: 10715.mp4 ... Finished FFMPEG for vid 715 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10715.mp4 .... 
+
+Finished GEN_EVENT for vid 715 in 0.000000 seconds
+
+ processing video: 10716.mp4 ... Finished FFMPEG for vid 716 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10716.mp4 .... 
+
+Finished GEN_EVENT for vid 716 in 0.000000 seconds
+
+ processing video: 10717.mp4 ... Finished FFMPEG for vid 717 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10717.mp4 .... 
+
+Finished GEN_EVENT for vid 717 in 0.000000 seconds
+
+ processing video: 10718.mp4 ... Finished FFMPEG for vid 718 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10718.mp4 .... 
+
+Finished GEN_EVENT for vid 718 in 0.000000 seconds
+
+ processing video: 10719.mp4 ... Finished FFMPEG for vid 719 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10719.mp4 .... 
+
+Finished GEN_EVENT for vid 719 in 0.000000 seconds
+
+ processing video: 10720.mp4 ... Finished FFMPEG for vid 720 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10720.mp4 .... 
+
+Finished GEN_EVENT for vid 720 in 0.000000 seconds
+
+ processing video: 10721.mp4 ... Finished FFMPEG for vid 721 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10721.mp4 .... 
+
+Finished GEN_EVENT for vid 721 in 0.000000 seconds
+
+ processing video: 10722.mp4 ... Finished FFMPEG for vid 722 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10722.mp4 .... 
+
+Finished GEN_EVENT for vid 722 in 0.000000 seconds
+
+ processing video: 10723.mp4 ... Finished FFMPEG for vid 723 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10723.mp4 .... 
+
+Finished GEN_EVENT for vid 723 in 0.000000 seconds
+
+ processing video: 10724.mp4 ... Finished FFMPEG for vid 724 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10724.mp4 .... 
+
+Finished GEN_EVENT for vid 724 in 0.000000 seconds
+
+ processing video: 10725.mp4 ... Finished FFMPEG for vid 725 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10725.mp4 .... 
+
+Finished GEN_EVENT for vid 725 in 0.000000 seconds
+
+ processing video: 10726.mp4 ... Finished FFMPEG for vid 726 in 0.000000 seconds
+
+ Found 25 pictures in the ./tmp directory
+ Generating events successfully for 10726.mp4 .... 
+
+Finished GEN_EVENT for vid 726 in 0.000000 seconds
+
+ processing video: 10727.mp4 ... Finished FFMPEG for vid 727 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10727.mp4 .... 
+
+Finished GEN_EVENT for vid 727 in 0.000000 seconds
+
+ processing video: 10728.mp4 ... Finished FFMPEG for vid 728 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10728.mp4 .... 
+
+Finished GEN_EVENT for vid 728 in 0.000000 seconds
+
+ processing video: 10729.mp4 ... Finished FFMPEG for vid 729 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10729.mp4 .... 
+
+Finished GEN_EVENT for vid 729 in 0.000000 seconds
+
+ processing video: 10730.mp4 ... Finished FFMPEG for vid 730 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10730.mp4 .... 
+
+Finished GEN_EVENT for vid 730 in 0.000000 seconds
+
+ processing video: 10731.mp4 ... Finished FFMPEG for vid 731 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10731.mp4 .... 
+
+Finished GEN_EVENT for vid 731 in 0.000000 seconds
+
+ processing video: 10732.mp4 ... Finished FFMPEG for vid 732 in 0.000000 seconds
+
+ Found 32 pictures in the ./tmp directory
+ Generating events successfully for 10732.mp4 .... 
+
+Finished GEN_EVENT for vid 732 in 0.000000 seconds
+
+ processing video: 10733.mp4 ... Finished FFMPEG for vid 733 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10733.mp4 .... 
+
+Finished GEN_EVENT for vid 733 in 0.000000 seconds
+
+ processing video: 10734.mp4 ... Finished FFMPEG for vid 734 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10734.mp4 .... 
+
+Finished GEN_EVENT for vid 734 in 0.000000 seconds
+
+ processing video: 10735.mp4 ... Finished FFMPEG for vid 735 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10735.mp4 .... 
+
+Finished GEN_EVENT for vid 735 in 0.000000 seconds
+
+ processing video: 10736.mp4 ... Finished FFMPEG for vid 736 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10736.mp4 .... 
+
+Finished GEN_EVENT for vid 736 in 0.000000 seconds
+
+ processing video: 10737.mp4 ... Finished FFMPEG for vid 737 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10737.mp4 .... 
+
+Finished GEN_EVENT for vid 737 in 0.000000 seconds
+
+ processing video: 10738.mp4 ... Finished FFMPEG for vid 738 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10738.mp4 .... 
+
+Finished GEN_EVENT for vid 738 in 0.000000 seconds
+
+ processing video: 10739.mp4 ... Finished FFMPEG for vid 739 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10739.mp4 .... 
+
+Finished GEN_EVENT for vid 739 in 0.000000 seconds
+
+ processing video: 10740.mp4 ... Finished FFMPEG for vid 740 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10740.mp4 .... 
+
+Finished GEN_EVENT for vid 740 in 0.000000 seconds
+
+ processing video: 10741.mp4 ... Finished FFMPEG for vid 741 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10741.mp4 .... 
+
+Finished GEN_EVENT for vid 741 in 0.000000 seconds
+
+ processing video: 10742.mp4 ... Finished FFMPEG for vid 742 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10742.mp4 .... 
+
+Finished GEN_EVENT for vid 742 in 0.000000 seconds
+
+ processing video: 10743.mp4 ... Finished FFMPEG for vid 743 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10743.mp4 .... 
+
+Finished GEN_EVENT for vid 743 in 0.000000 seconds
+
+ processing video: 10744.mp4 ... Finished FFMPEG for vid 744 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10744.mp4 .... 
+
+Finished GEN_EVENT for vid 744 in 0.000000 seconds
+
+ processing video: 10745.mp4 ... Finished FFMPEG for vid 745 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10745.mp4 .... 
+
+Finished GEN_EVENT for vid 745 in 0.000000 seconds
+
+ processing video: 10746.mp4 ... Finished FFMPEG for vid 746 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10746.mp4 .... 
+
+Finished GEN_EVENT for vid 746 in 0.000000 seconds
+
+ processing video: 10747.mp4 ... Finished FFMPEG for vid 747 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10747.mp4 .... 
+
+Finished GEN_EVENT for vid 747 in 0.000000 seconds
+
+ processing video: 10748.mp4 ... Finished FFMPEG for vid 748 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10748.mp4 .... 
+
+Finished GEN_EVENT for vid 748 in 0.000000 seconds
+
+ processing video: 10749.mp4 ... Finished FFMPEG for vid 749 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10749.mp4 .... 
+
+Finished GEN_EVENT for vid 749 in 0.000000 seconds
+
+ processing video: 10750.mp4 ... Finished FFMPEG for vid 750 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10750.mp4 .... 
+
+Finished GEN_EVENT for vid 750 in 0.000000 seconds
+
+ processing video: 10751.mp4 ... Finished FFMPEG for vid 751 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10751.mp4 .... 
+
+Finished GEN_EVENT for vid 751 in 0.000000 seconds
+
+ processing video: 10752.mp4 ... Finished FFMPEG for vid 752 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10752.mp4 .... 
+
+Finished GEN_EVENT for vid 752 in 0.000000 seconds
+
+ processing video: 10753.mp4 ... Finished FFMPEG for vid 753 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10753.mp4 .... 
+
+Finished GEN_EVENT for vid 753 in 0.000000 seconds
+
+ processing video: 10754.mp4 ... Finished FFMPEG for vid 754 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10754.mp4 .... 
+
+Finished GEN_EVENT for vid 754 in 0.000000 seconds
+
+ processing video: 10755.mp4 ... Finished FFMPEG for vid 755 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10755.mp4 .... 
+
+Finished GEN_EVENT for vid 755 in 0.000000 seconds
+
+ processing video: 10756.mp4 ... Finished FFMPEG for vid 756 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10756.mp4 .... 
+
+Finished GEN_EVENT for vid 756 in 0.000000 seconds
+
+ processing video: 10757.mp4 ... Finished FFMPEG for vid 757 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10757.mp4 .... 
+
+Finished GEN_EVENT for vid 757 in 0.000000 seconds
+
+ processing video: 10758.mp4 ... Finished FFMPEG for vid 758 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10758.mp4 .... 
+
+Finished GEN_EVENT for vid 758 in 0.000000 seconds
+
+ processing video: 10759.mp4 ... Finished FFMPEG for vid 759 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10759.mp4 .... 
+
+Finished GEN_EVENT for vid 759 in 0.000000 seconds
+
+ processing video: 10760.mp4 ... Finished FFMPEG for vid 760 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10760.mp4 .... 
+
+Finished GEN_EVENT for vid 760 in 0.000000 seconds
+
+ processing video: 10761.mp4 ... Finished FFMPEG for vid 761 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10761.mp4 .... 
+
+Finished GEN_EVENT for vid 761 in 0.000000 seconds
+
+ processing video: 10762.mp4 ... Finished FFMPEG for vid 762 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10762.mp4 .... 
+
+Finished GEN_EVENT for vid 762 in 0.000000 seconds
+
+ processing video: 10763.mp4 ... Finished FFMPEG for vid 763 in 0.000000 seconds
+
+ Found 39 pictures in the ./tmp directory
+ Generating events successfully for 10763.mp4 .... 
+
+Finished GEN_EVENT for vid 763 in 0.000000 seconds
+
+ processing video: 10764.mp4 ... Finished FFMPEG for vid 764 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10764.mp4 .... 
+
+Finished GEN_EVENT for vid 764 in 0.000000 seconds
+
+ processing video: 10765.mp4 ... Finished FFMPEG for vid 765 in 0.000000 seconds
+
+ Found 33 pictures in the ./tmp directory
+ Generating events successfully for 10765.mp4 .... 
+
+Finished GEN_EVENT for vid 765 in 0.000000 seconds
+
+ processing video: 10766.mp4 ... Finished FFMPEG for vid 766 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10766.mp4 .... 
+
+Finished GEN_EVENT for vid 766 in 0.000000 seconds
+
+ processing video: 10767.mp4 ... Finished FFMPEG for vid 767 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10767.mp4 .... 
+
+Finished GEN_EVENT for vid 767 in 0.000000 seconds
+
+ processing video: 10768.mp4 ... Finished FFMPEG for vid 768 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10768.mp4 .... 
+
+Finished GEN_EVENT for vid 768 in 0.000000 seconds
+
+ processing video: 10769.mp4 ... Finished FFMPEG for vid 769 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10769.mp4 .... 
+
+Finished GEN_EVENT for vid 769 in 0.000000 seconds
+
+ processing video: 10770.mp4 ... Finished FFMPEG for vid 770 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10770.mp4 .... 
+
+Finished GEN_EVENT for vid 770 in 0.000000 seconds
+
+ processing video: 10771.mp4 ... Finished FFMPEG for vid 771 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10771.mp4 .... 
+
+Finished GEN_EVENT for vid 771 in 0.000000 seconds
+
+ processing video: 10772.mp4 ... Finished FFMPEG for vid 772 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10772.mp4 .... 
+
+Finished GEN_EVENT for vid 772 in 0.000000 seconds
+
+ processing video: 10773.mp4 ... Finished FFMPEG for vid 773 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10773.mp4 .... 
+
+Finished GEN_EVENT for vid 773 in 0.000000 seconds
+
+ processing video: 10774.mp4 ... Finished FFMPEG for vid 774 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10774.mp4 .... 
+
+Finished GEN_EVENT for vid 774 in 0.000000 seconds
+
+ processing video: 10775.mp4 ... Finished FFMPEG for vid 775 in 0.000000 seconds
+
+ Found 31 pictures in the ./tmp directory
+ Generating events successfully for 10775.mp4 .... 
+
+Finished GEN_EVENT for vid 775 in 0.000000 seconds
+
+ processing video: 10776.mp4 ... Finished FFMPEG for vid 776 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10776.mp4 .... 
+
+Finished GEN_EVENT for vid 776 in 0.000000 seconds
+
+ processing video: 10777.mp4 ... Finished FFMPEG for vid 777 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10777.mp4 .... 
+
+Finished GEN_EVENT for vid 777 in 0.000000 seconds
+
+ processing video: 10778.mp4 ... Finished FFMPEG for vid 778 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10778.mp4 .... 
+
+Finished GEN_EVENT for vid 778 in 0.000000 seconds
+
+ processing video: 10779.mp4 ... Finished FFMPEG for vid 779 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10779.mp4 .... 
+
+Finished GEN_EVENT for vid 779 in 0.000000 seconds
+
+ processing video: 10780.mp4 ... Finished FFMPEG for vid 780 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10780.mp4 .... 
+
+Finished GEN_EVENT for vid 780 in 0.000000 seconds
+
+ processing video: 10781.mp4 ... Finished FFMPEG for vid 781 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10781.mp4 .... 
+
+Finished GEN_EVENT for vid 781 in 0.000000 seconds
+
+ processing video: 10782.mp4 ... Finished FFMPEG for vid 782 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10782.mp4 .... 
+
+Finished GEN_EVENT for vid 782 in 0.000000 seconds
+
+ processing video: 10783.mp4 ... Finished FFMPEG for vid 783 in 0.000000 seconds
+
+ Found 37 pictures in the ./tmp directory
+ Generating events successfully for 10783.mp4 .... 
+
+Finished GEN_EVENT for vid 783 in 0.000000 seconds
+
+ processing video: 10784.mp4 ... Finished FFMPEG for vid 784 in 0.000000 seconds
+
+ Found 36 pictures in the ./tmp directory
+ Generating events successfully for 10784.mp4 .... 
+
+Finished GEN_EVENT for vid 784 in 0.000000 seconds
+
+ processing video: 10785.mp4 ... Finished FFMPEG for vid 785 in 0.000000 seconds
+
+ Found 34 pictures in the ./tmp directory
+ Generating events successfully for 10785.mp4 .... 
+
+Finished GEN_EVENT for vid 785 in 0.000000 seconds
+
+ processing video: 10786.mp4 ... Finished FFMPEG for vid 786 in 0.000000 seconds
+
+ Found 35 pictures in the ./tmp directory
+ Generating events successfully for 10786.mp4 .... 
+
+Finished GEN_EVENT for vid 786 in 0.000000 seconds
+
+ processing video: 10787.mp4 ... Finished FFMPEG for vid 787 in 0.000000 seconds
+
+ Found 7 pictures in the ./tmp directory

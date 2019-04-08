@@ -1,0 +1,11 @@
+Ubuntu
+cat 20bn-jester-v1-?? | tar zx
+
+windows cmd
+FOR /D /r %f in ("*") DO (cd "%f" & ffmpeg -framerate 12 -i "%5d.jpg" "%f".mp4)
+
+PIX2NVS R 1 N 2 F 0.5 C 1
+
+powershell
+get-childitem *.txt | foreach { rename-item $_ $_.Name.Replace(".mp4", "")
+}
